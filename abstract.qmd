@@ -1,0 +1,12 @@
+---
+title: "Abstract"
+author: "Greg Maya"
+---
+
+The following deck allows for easy sharing, updating and even exporting into other formats (`PowePoint`, `PDF`) if necessary.
+
+
+```{=html}
+<iframe class="slide-deck" src="abstract/"></iframe>
+```
+
