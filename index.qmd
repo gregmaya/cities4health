@@ -2,6 +2,6 @@
 title: "cities4health"
 ---
 
-This is site to centralise the efforts for an upcoming proposal for an Industry PhD exploring the intersection between urban development and health. 
+This is site to centralise the efforts for an upcoming proposal for an **Industry PhD** exploring the intersection between urban development and health outcomes.
 
 Many of the ideas in here are just taking shape so any suggestions or modification are possible and desirable in order to strengthen the final outcome.
