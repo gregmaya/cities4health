@@ -6,12 +6,14 @@ website:
   navbar:
     left:
       - abstract.qmd
+      - bibliography.qmd
+      - draft.qmd
+
+page-footer:
+    center: "© Copyright 2024 Greg Maya. Except where otherwise noted."
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-
-

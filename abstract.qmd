@@ -9,4 +9,3 @@ The following deck allows for easy sharing, updating and even exporting into oth
 ```{=html}
 <iframe class="slide-deck" src="abstract/"></iframe>
 ```
-

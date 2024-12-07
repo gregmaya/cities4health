@@ -1,28 +1,129 @@
 ---
-title: "Cities4Health"
+title: "Health-Driven Urban Development"
+subtitle: "An Industry PhD Opportunity"
+date: December 2024
+author: Greg Maya
 format: revealjs
 ---
 
-# In the morning
 
-## Getting up
+## Purpose
 
-- Turn off alarm
-- Get out of bed
+Outline the Industry PhD project and explore partnership opportunities with Ramboll (and BUPA).  
 
-## Breakfast
+- Covered in this document:
+  1. [The Logistics](#the-logistics)
+  2. [The Parties](#the-parties)
+  3. [The Research Topic](#the-research-topic)
+  4. [Research Components](#research-components)
+  5. [Outcomes for Partners](#potential-outcomes-for-partners)
+  6. [Next Steps](#next-steps)
 
-- Eat eggs
-- Drink coffee
+---
 
-# In the evening
+## 2. The Logistics
 
-## Dinner
+### What is an Industry PhD?
+An overview of the program offered by the Danish Innovation Fund.  
 
-- Eat spaghetti
-- Drink wine
+### The Programme Framework  
+[Danish Innovation Fund: Industrial Researcher](https://innovationsfonden.dk/en/p/industrial-researcher#apply_options296)  
+#### Main Points:
+- **Time:** 3-year funded program
+- **Funding limits:** ...
+- **Research location:** ...
 
-## Going to sleep
+### Important Deadlines  
+Highlight application milestones and project start dates.
 
-- Get in bed
-- Count sheep
+---
+
+## 3. The Parties
+
+### The Researcher
+**Me!**  
+- Brief introduction to your background and expertise.
+
+### Industry Partner(s)
+**Ramboll** (Danish HQ)  
+- Their role and potential benefits from collaboration.
+
+**BUPA**  
+- Potential inclusion and their alignment with health-driven urban strategies.
+
+### Academic Partner
+_TBC_  
+- Candidates:  
+  - [Dr. Jens Kandt, CASA - UCL](https://profiles.ucl.ac.uk/37018)  
+  - [Dr. Robert Hughes, The London School of Hygiene & Tropical Medicine](https://www.lshtm.ac.uk/aboutus/people/hughes.robert)
+
+---
+
+## 4. The Research Topic
+### Main Focus
+"The challenges of implementing health outcomes as drivers of urban development."
+
+### Why It Matters
+- Address societal and commercial value for Ramboll/BUPA.
+- Align with global trends like sustainability and public health.
+
+### Sub-Sections
+#### Context  
+- **Frameworks:**  
+  - SDGs: List the relevant ones (e.g., SDG 3 and SDG 11).
+  - Other urban policies as relevant.
+
+#### The Problem(s)
+1. **Narrative mismatch:** Challenges at the intersection of two disciplines.  
+2. **Untracked urban development:** Lack of rigorous long-term tracking methodologies.  
+3. **Lack of technical skill:** Urbanists often lack training in certain techniques.
+
+---
+
+## 5. Research Components
+
+### Literature Review
+A summary of key studies and trends in health-focused urban development.  
+*Visit a broader list under the [Bibliography tab](../bibliography.qmd).*
+
+### Case Studies  
+_TBC_  
+- Potential inclusion of cases from Ramboll’s ongoing projects or new initiatives.
+
+### Research Goals
+- Create links between policies and tangible health-driven urban actions.  
+- Quantify the economic case for health-focused urban design.  
+- Develop a commercially viable framework for urban redevelopment opportunities.  
+- _(Additional goals to refine based on partners’ input.)_
+
+---
+
+## 6. Potential Outcomes for Partners
+
+### Strategic Benefits for Ramboll/BUPA
+- Thought leadership in health-driven urban development.  
+- New commercial opportunities through innovative frameworks.  
+- Long-term societal impact on public health and urban sustainability.
+
+### Practical Deliverables
+- Policy guidelines.  
+- Data-driven tools and frameworks.
+
+---
+
+## 7. Next Steps
+### Action Plan
+- **Timeline:** Finalize the proposal and application.  
+- **Opportunities for collaboration:** Identify ways Ramboll/BUPA can contribute.
+
+### Call to Action
+- Specific next steps, e.g., co-funding, data sharing, or mentorship.
+
+---
+
+## 8. Contact
+
+- Include contact information and invite questions.
+
+
+--- 
