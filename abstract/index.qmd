@@ -1,11 +1,16 @@
 ---
 title: "Health-Driven Urban Development"
 subtitle: "An Industry PhD Opportunity"
-date: December 2024
-author: Greg Maya
-format: revealjs
+date: "December 2024"
+author: "Greg Maya"
+format: 
+  revealjs:
+    theme: "simple"
+    smaller: true
+    scrollable: true
+    auto-stretch: false
+    footer: "© Copyright 2024 Greg Maya."
 ---
-
 
 ## Purpose
 
@@ -21,24 +26,40 @@ Outline the Industry PhD project and explore partnership opportunities with Ramb
 
 ---
 
-## 2. The Logistics
+## The Logistics
 
 ### What is an Industry PhD?
 An overview of the program offered by the Danish Innovation Fund.  
 
-### The Programme Framework  
-[Danish Innovation Fund: Industrial Researcher](https://innovationsfonden.dk/en/p/industrial-researcher#apply_options296)  
-#### Main Points:
+### The Framework  
+[Danish Innovation Fund: Industrial Researcher](https://innovationsfonden.dk/en/p/industrial-researcher)  
+
+:::: {.columns}
+::: {.column width="48%"}
+
+::: {.callout}
 - **Time:** 3-year funded program
 - **Funding limits:** ...
-- **Research location:** ...
+- **Research location:** World-wide (i.e. not tied to Denmark.)
+:::
 
-### Important Deadlines  
-Highlight application milestones and project start dates.
+:::
+::: {.column width="48%"}
+
+::: {.callout}
+- **Deadlines**
+Applications are not yet open, commonly two rounds of applications are run per year: **April** and **October**. The aim is to apply to the spring version, expecting answers by **June 2025**.
+:::
+
+:::
+::::
 
 ---
 
-## 3. The Parties
+## Parties
+
+
+:::{.panel-tabset}
 
 ### The Researcher
 **Me!**  
@@ -52,14 +73,18 @@ Highlight application milestones and project start dates.
 - Potential inclusion and their alignment with health-driven urban strategies.
 
 ### Academic Partner
-_TBC_  
-- Candidates:  
+> _TBC : these are some initial names that could be approached given their field of expertise, their track reccord on timely research and/or compatibility with other partners._  
+
+Candidates:  
   - [Dr. Jens Kandt, CASA - UCL](https://profiles.ucl.ac.uk/37018)  
   - [Dr. Robert Hughes, The London School of Hygiene & Tropical Medicine](https://www.lshtm.ac.uk/aboutus/people/hughes.robert)
 
+:::
+
+
 ---
 
-## 4. The Research Topic
+## The Research Topic
 ### Main Focus
 "The challenges of implementing health outcomes as drivers of urban development."
 
@@ -80,7 +105,7 @@ _TBC_
 
 ---
 
-## 5. Research Components
+## Research Components
 
 ### Literature Review
 A summary of key studies and trends in health-focused urban development.  
@@ -98,7 +123,7 @@ _TBC_
 
 ---
 
-## 6. Potential Outcomes for Partners
+## Potential Outcomes for Partners
 
 ### Strategic Benefits for Ramboll/BUPA
 - Thought leadership in health-driven urban development.  
@@ -111,7 +136,7 @@ _TBC_
 
 ---
 
-## 7. Next Steps
+## Next Steps
 ### Action Plan
 - **Timeline:** Finalize the proposal and application.  
 - **Opportunities for collaboration:** Identify ways Ramboll/BUPA can contribute.
@@ -121,9 +146,17 @@ _TBC_
 
 ---
 
-## 8. Contact
+## Contact
 
-- Include contact information and invite questions.
+::: {.columns}
+::: {.column}
+**Greg Maya**
 
+gregoriomaya@gmail.com
 
---- 
+I would be happy to hear from you.
+:::
+::: {.column}
+### Thanks!
+:::
+:::

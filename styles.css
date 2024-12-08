@@ -1,4 +1,10 @@
 /* css styles */
+.quarto-footer {
+    text-align: center;
+    padding: 10px;
+    font-size: 0.9em;
+    color: #555;
+}
 
 .slide-deck {
     width: 100%;

@@ -2,13 +2,12 @@
 title: "Bibliography"
 author: "Greg Maya"
 ---
-
-# Papers
-
-# Research Bodies
-
-# Others
-## Videos
-
+:::{.panel-tabset}
+## Papers
 
 ## Podcasts
+
+## Videos
+- Add BUPA's Documentary
+
+:::

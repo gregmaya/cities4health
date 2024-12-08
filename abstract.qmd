@@ -1,11 +1,12 @@
 ---
 title: "Abstract"
-author: "Greg Maya"
 ---
 
-The following deck allows for easy sharing, updating and even exporting into other formats (`PowePoint`, `PDF`) if necessary.
-
+<a href="abstract/index.qmd" class="btn btn-primary btn-sm" role="button">Full Screen</a>
+ available.
 
 ```{=html}
 <iframe class="slide-deck" src="abstract/"></iframe>
 ```
+
+This deck allows for easy sharing, updating and even exporting into other formats (`PowePoint`, `PDF`) if necessary. Please feel free to ask if required.
