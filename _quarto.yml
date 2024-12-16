@@ -6,10 +6,11 @@ website:
   search: false
   navbar:
     left:
-      - file: abstract.qmd
-        text: "Abstract"
-      - file: bibliography.qmd
-        text: "Bibliography"
+      - href: about.qmd
+        text: "About it"
+      - href: references.qmd
+        text: "References"
+
     right: 
       - icon: person-lines-fill
         aria-label: website

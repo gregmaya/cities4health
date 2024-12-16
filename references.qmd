@@ -1,0 +1,35 @@
+---
+title: "References"
+author: "Greg Maya"
+---
+
+
+:::{.panel-tabset}
+## Relevant Initiatives
+
+1. [WHO European Healthy Cities Network](https://www.who.int/europe/groups/who-european-healthy-cities-network)
+
+The World Health Organization's Healthy Cities Network emphasizes a holistic approach to urban health, addressing various determinants such as air quality, noise, and access to green spaces. This initiative encourages cities to develop policies that promote healthier urban environments. 
+
+1. [Urban Health Cluster (UHC)](https://www.urban-health.eu/)
+
+Launched in 2021, the UHC is a collaborative effort among six Horizon 2020 projects—eMOTIONAL Cities, ENLIGHTENme, HEART, RECETAS, URBANOME, and WELLBASED. It aims to harmonize efforts to improve urban health and well-being by addressing environmental, climate, and socio-economic factors. The cluster seeks to elevate urban health as a key element of the European Urban Agenda. 
+
+1. [Urban Health Initiative](https://www.who.int/initiatives/urban-health-initiative)
+
+This WHO initiative focuses on integrating health into urban planning, emphasizing the importance of cleaner transport, energy-efficient housing, and better municipal waste management to create healthier cities. It highlights the role of urban environments in promoting health or contributing to health risks, such as air pollution and barriers to physical activity. 
+
+1. Policy Briefs for Strategic Urban Health Approaches
+
+The WHO has developed a series of policy briefs to support strategic reflection among urban health decision-makers. These briefs provide guidance on strengthening partnerships and participation for urban health, drawing on existing international guidelines and academic research. 
+
+1. European Urban Health Indicators (EURO-URHIS)
+
+The EURO-URHIS projects aim to provide policymakers with data on health problems in urban areas, facilitating evidence-based decision-making. By collecting and analyzing urban health indicators, these projects support the development of targeted health policies at local, national, and international levels. 
+
+## Papers
+
+## Videos
+- BUPA's Documentary : **HEALTHY CITIES**
+{{< video https://www.youtube.com/watch?v=7vrQqAEJ10E >}}
+:::

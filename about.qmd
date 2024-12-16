@@ -1,5 +1,5 @@
 ---
-title: "Abstract"
+title: "About it"
 ---
 
 <a href="abstract/index.qmd" class="btn btn-primary btn-sm" role="button">Full Screen</a>
