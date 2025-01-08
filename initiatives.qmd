@@ -1,0 +1,56 @@
+---
+title: Initiatives
+author: "Greg Maya"
+---
+The following is a conceptual breakdown of frameworks, policies and initiatives that city developers need to navigate before implemeting projects on-the-ground that resonate at different scales. 
+
+:::{.panel-tabset}
+## **Global and Multilateral**
+
+### **World Health Organization (WHO) Initiatives**
+- [**Healthy Cities Network**](https://www.who.int/initiatives/healthy-cities)  
+- [**Urban Health Initiative (UHI)**](https://www.who.int/initiatives/urban-health-initiative)  
+- [**Policy Briefs for Strategic Urban Health Approaches**](https://www.who.int/teams/social-determinants-of-health/urban-health/policy-briefs)
+
+### **UN - Sustainable Development Goals (SDGs)**
+- [**SDG 3: Good Health and Well-being**](https://sdgs.un.org/goals/goal3)  
+- [**SDG 11: Sustainable Cities and Communities**](https://sdgs.un.org/goals/goal11)  
+- [**SDG 13: Climate Action**](https://sdgs.un.org/goals/goal13)
+
+---
+
+## **Regional and EU-Level**
+
+### **European Commission and Horizon 2020 Projects**
+- [**Urban Health Cluster (UHC)**](https://www.urban-health.eu)  
+- [**European Urban Health Indicators (EURO-URHIS)**](https://cordis.europa.eu/project/id/223711/reporting)
+
+### **European Urban Agenda**
+- [**European Urban Agenda**](https://ec.europa.eu/futurium/en/urban-agenda)
+
+---
+
+## **National and City-Level**
+
+### **Country-Specific SAPs (Sectoral Adaptation Plans)**
+- **Ireland and Sweden**: [Ireland's Climate Adaptation Framework](https://www.gov.ie/en/policy-information/3e563-climate-action-and-adaptation/) | [Sweden's Adaptation Strategies](https://www.smhi.se/en/climate/swedish-national-knowledge-centre-for-climate-change-adaptation)  
+- **Finland**: [Finland's National Adaptation Plan](https://ym.fi/en/adaptation-to-climate-change)  
+- **Spain**: [Spain's Climate Adaptation Plan](https://www.miteco.gob.es/en/cambio-climatico/temas/impactos-vulnerabilidad-y-adaptacion)
+
+### **Other National Urban Health Initiatives**
+- **The Netherlands**: [Amsterdam’s Nature-Based Solutions](https://amsterdamcityclimate.com/nature-based-solutions/)  
+- **France**: [Paris Urban Heat Island Mitigation](https://www.paris.fr/pages/paris-face-au-changement-climatique-3014)  
+- **Germany**: [Berlin Air Quality Management](https://www.berlin.de/sen/uvk/en/environment/air/air-quality-plans/)
+
+---
+
+### **City-Level Examples**
+- **Copenhagen, Denmark**: [Copenhagen Climate Adaptation Plan](https://en.klimatilpasning.dk/)  
+- **Barcelona, Spain**: [Barcelona Superblocks Initiative](https://ajuntament.barcelona.cat/ecologiaurbana/en/what-we-do-and-why/public-space/superblocks)  
+- **Milan, Italy**: [Milan Urban Food Policy Pact](https://www.milanurbanfoodpolicypact.org/)  
+- **Ljubljana, Slovenia**: [Ljubljana Sustainable Mobility Plan](https://www.ljubljana.si/en/ljubljana-for-you/environmental-protection/)
+
+---
+
+
+:::

@@ -8,8 +8,13 @@ website:
     left:
       - href: about.qmd
         text: "About it"
-      - href: references.qmd
-        text: "References"
+      - text: "References"
+        menu: 
+        - href: initiatives.qmd
+          text : "Initiatives"
+        - href: bibliography.qmd
+          text : "Bibliography"
+
 
     right: 
       - icon: person-lines-fill

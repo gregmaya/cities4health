@@ -14,15 +14,27 @@ format:
 
 ## Purpose
 
-Outline the Industry PhD project and explore partnership opportunities with Ramboll (and BUPA).  
+Outline the Industry PhD project and explore partnership opportunities with Industry and Academia.
 
-- Covered in this document:
+**Covered in this document:**
+
+::: {.columns}
+::: {.column width="50%"}
+
   1. [The Logistics](#the-logistics)
   2. [The Parties](#the-parties)
   3. [The Research Topic](#the-research-topic)
+
+:::
+
+::: {.column width="50%"}
+
   4. [Research Components](#research-components)
   5. [Outcomes for Partners](#potential-outcomes-for-partners)
   6. [Next Steps](#next-steps)
+
+:::
+:::
 
 ---
 
@@ -34,7 +46,7 @@ An overview of the program offered by the Danish Innovation Fund.
 ### The Framework  
 [Danish Innovation Fund: Industrial Researcher](https://innovationsfonden.dk/en/p/industrial-researcher)  
 
-:::: {.columns}
+::: {.columns}
 ::: {.column width="48%"}
 
 ::: {.callout}
@@ -52,7 +64,7 @@ Applications are not yet open, commonly two rounds of applications are run per y
 :::
 
 :::
-::::
+:::
 
 ---
 
@@ -62,17 +74,20 @@ Applications are not yet open, commonly two rounds of applications are run per y
 :::{.panel-tabset}
 
 ### The Researcher
+
 **Me!**  
 - Brief introduction to your background and expertise.
 
 ### Industry Partner(s)
-**Ramboll** (Danish HQ)  
+
+[**Ramboll**](https://www.ramboll.com/contact-us/denmark)(Danish HQ)  
 - Their role and potential benefits from collaboration.
 
-**BUPA**  
+[**BUPA**](https://www.bupa.com/impact/sustainability/our-sustainability-missions)
 - Potential inclusion and their alignment with health-driven urban strategies.
 
 ### Academic Partner
+
 > _TBC : these are some initial names that could be approached given their field of expertise, their track reccord on timely research and/or compatibility with other partners._  
 
 Candidates:  
@@ -85,6 +100,7 @@ Candidates:
 ---
 
 ## The Research Topic
+
 ### Main Focus
 "The challenges of implementing health outcomes as drivers of urban development."
 
@@ -109,14 +125,14 @@ Candidates:
 
 ### Literature Review
 A summary of key studies and trends in health-focused urban development.  
-*Visit a broader list under the [Bibliography tab](../bibliography.qmd).*
+*Visit a broader list under the `References menu´*
 
 ### Case Studies  
 _TBC_  
 - Potential inclusion of cases from Ramboll’s ongoing projects or new initiatives.
 
 ### Research Goals
-- Create links between policies and tangible health-driven urban actions.  
+- Create links between policies and tangible health-driven urban actions. 
 - Quantify the economic case for health-focused urban design.  
 - Develop a commercially viable framework for urban redevelopment opportunities.  
 - _(Additional goals to refine based on partners’ input.)_
@@ -125,7 +141,7 @@ _TBC_
 
 ## Potential Outcomes for Partners
 
-### Strategic Benefits for Ramboll/BUPA
+### Strategic Benefits for Industry Partners
 - Thought leadership in health-driven urban development.  
 - New commercial opportunities through innovative frameworks.  
 - Long-term societal impact on public health and urban sustainability.
@@ -137,6 +153,7 @@ _TBC_
 ---
 
 ## Next Steps
+
 ### Action Plan
 - **Timeline:** Finalize the proposal and application.  
 - **Opportunities for collaboration:** Identify ways Ramboll/BUPA can contribute.
@@ -150,11 +167,15 @@ _TBC_
 
 ::: {.columns}
 ::: {.column}
-**Greg Maya**
-
-gregoriomaya@gmail.com
 
 I would be happy to hear from you.
+
+**Greg Maya**
+
+- Email: [gregoriomaya@gmail.com](mailto:gregoriomaya@gmail.com)
+- LinkedIn: [/gregmaya](https://www.linkedin.com/in/gregoriomaya/)
+
+
 :::
 ::: {.column}
 ### Thanks!

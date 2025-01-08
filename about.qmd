@@ -6,7 +6,9 @@ title: "About it"
  available.
 
 ```{=html}
-<iframe class="slide-deck" src="abstract/"></iframe>
+<iframe class="slide-deck" src="abstract/" width="100%" height="800px"></iframe>
 ```
+
+
 
 This deck allows for easy sharing, updating and even exporting into other formats (`PowePoint`, `PDF`) if necessary. Please feel free to ask if required.

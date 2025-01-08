@@ -1,0 +1,34 @@
+---
+title: "Bibliography"
+author: "Greg Maya"
+---
+
+
+:::{.panel-tabset}
+## Papers
+
+- Cesaroni, Giulia, Francesco Forastiere, David Stafoggia, et al. "Long term exposure to ambient air pollution and incidence of acute coronary events: Prospective cohort study and meta-analysis in 11 European cohorts from the ESCAPE Project." *International Journal of Epidemiology* 40, no. 1 (2011): 121-130. [Link to paper](https://academic.oup.com/ije/article/40/1/121/658816)
+
+- Beelen, Rob, Gerard Hoek, Piet A. van den Brandt, et al. "Long-term exposure to traffic-related air pollution and lung cancer risk." *Epidemiology* 25, no. 5 (2014): 712-720. [Link to paper](https://journals.lww.com/epidem/fulltext/2014/11000/global_variation_in_the_effects_of_ambient.1.aspx)
+
+- Burnett, Richard T., C. Arden Pope III, Majid Ezzati, et al. "An integrated risk function for estimating the global burden of disease attributable to ambient fine particulate matter exposure." *Annual Review of Public Health* 35 (2014): 49-67. [Link to paper](https://www.annualreviews.org/doi/abs/10.1146/annurev-publhealth-040218-043657)
+
+- Atkinson, Richard W., Ben Armstrong, H. Ross Anderson, et al. "Long-term concentrations of nitrogen dioxide and mortality: A meta-analysis of cohort studies." *Environment International* 74 (2015): 41-48. [Link to paper](https://www.sciencedirect.com/science/article/pii/S0160412015300799)
+
+- Crouse, Dan L., Paul A. Peters, Aaron van Donkelaar, et al. "Risk of nonaccidental and cardiovascular mortality in relation to long-term exposure to low concentrations of fine particulate matter: A Canadian national-level cohort study." *Epidemiology* 23, no. 4 (2012): 484-491. [Link to paper](https://journals.lww.com/epidem/fulltext/2018/07000/long_term_concentrations_of_nitrogen_dioxide_and.2.aspx)
+
+- Huang, Wei, Yuming Guo, and Shilu Tong. "The impact of temperature on years of life lost: A multi-community study in China." *Environment International* 126 (2019): 730-736. [Link to paper](https://www.sciencedirect.com/science/article/pii/S0160412019315223)
+
+- Chen, Renjie, Haidong Kan, Bert Brunekreef, and Michal Krzyzanowski. "Long-term exposure to PM and all-cause and cause-specific mortality: A systematic review and meta-analysis." *Science Advances* 5, no. 9 (2019): eaax0903. [Link to paper](https://www.science.org/doi/10.1126/sciadv.aax0903)
+
+ - Zhang, Shuxin, Yanan Li, and Xiaoming Shi. "Global association between ambient air pollution and blood pressure: A systematic review and meta-analysis." *Scientific Reports* 10, no. 1 (2020): 19722. [Link to paper](https://www.nature.com/articles/s41598-020-79924-5)
+
+
+## Videos
+- BUPA's Documentary : HEALTHY CITIES
+{{< video https://www.youtube.com/watch?v=7vrQqAEJ10E >}}
+
+
+## Podcasts
+
+:::
