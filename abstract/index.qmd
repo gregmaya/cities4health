@@ -1,7 +1,7 @@
 ---
 title: "Health-Driven Urban Development"
 subtitle: "An Industry PhD Opportunity"
-date: "December 2024"
+date: "January 2025"
 author: "Greg Maya"
 format: 
   revealjs:
@@ -9,12 +9,12 @@ format:
     smaller: true
     scrollable: true
     auto-stretch: false
-    footer: "© Copyright 2024 Greg Maya."
+    footer: "© Copyright 2025 Greg Maya."
 ---
 
 ## Purpose
 
-Outline the Industry PhD project and explore partnership opportunities with Industry and Academia.
+Outline the project and explore partnership opportunities with Industry and Academia to apply for funding for an Industry PhD.
 
 **Covered in this document:**
 
@@ -41,30 +41,37 @@ Outline the Industry PhD project and explore partnership opportunities with Indu
 ## The Logistics
 
 ### What is an Industry PhD?
-An overview of the program offered by the Danish Innovation Fund.  
 
-### The Framework  
-[Danish Innovation Fund: Industrial Researcher](https://innovationsfonden.dk/en/p/industrial-researcher)  
+> _The purpose of the Industrial Researcher program is to establish closer ties between companies and the university, as well as to connect young researchers to the private business sector. This is done through a collaboration between a company, a university and a PhD student or post.doc graduate._
+
 
 ::: {.columns}
 ::: {.column width="48%"}
 
-::: {.callout}
-- **Time:** 3-year funded program
-- **Funding limits:** ...
-- **Research location:** World-wide (i.e. not tied to Denmark.)
-:::
+- **Funding limits:**
+  - Company: DKK 22,000 (~2,950 EUR) per month as subsidy to reseacher.
+  - University: DKK 10,000 (~1,340 EUR) per month
+
+- **Research location:** 
+<mark>Europe.</mark> The research is intended to explore regulatory frameworks in european cities.
 
 :::
 ::: {.column width="48%"}
 
-::: {.callout}
-- **Deadlines**
+- **Time:** 3-year funded program
+- **Deadlines**:
 Applications are not yet open, commonly two rounds of applications are run per year: **April** and **October**. The aim is to apply to the spring version, expecting answers by **June 2025**.
-:::
 
 :::
 :::
+
+<footer style="text-align: center; font-size: 0.8em; margin-top: 50px;">
+
+Find more at [Danish Innovation Fund: Industrial Researcher](https://innovationsfonden.dk/en/p/industrial-researcher)  
+
+</footer>
+
+
 
 ---
 
@@ -76,7 +83,14 @@ Applications are not yet open, commonly two rounds of applications are run per y
 ### The Researcher
 
 **Me!**  
-- Brief introduction to your background and expertise.
+
+I am Gregorio Maya, **City Science Coordinator** at the [Norman Foster Institute](https://normanfosterinstitute.org/) and a freelance consultant for various NGOs. My focus lies in **data-driven analysis of urban environments**, particularly through applied research in **technology integration** within public policy for urban planning. Trained as an architect with a _Summa Cum Laude_ degree, I have transitioned from traditional design to consulting on modeling complex systems within the built environment.
+
+In my current role, I co-lecture in Urban Analytics and lead the technical development of sustainability tools for cities. My recent work includes collaborating with municipalities to shape and implement **Climate Action Plans (CAP)**, aligning urban growth with climate resilience. In a nutshell, I contribute to developing solutions that integrate **data science, urban design, and sustainability**.
+
+In parallel, I consult for NGOs, providing data insights and visualizations that support **impactful development** across various sectors.
+
+I maintain academic ties with my _alma maters_, [The Bartlett-UCL](https://www.ucl.ac.uk/bartlett/architecture/bartlett-school-architecture) (UK) and [Universidad de los Andes](https://arqdis.uniandes.edu.co/) (COL), and collaborate closely with professors at [MIT - Media Lab](https://www.media.mit.edu/) (USA), [UAM](https://www.uam.es/uam/en/inicio) (ES), and [UCA Canterbury](https://www.uca.ac.uk/study/subject/architecture/) (UK), among many others.
 
 ### Industry Partner(s)
 

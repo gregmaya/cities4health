@@ -2,6 +2,7 @@ project:
   type: website
 
 website:
+  favicon: assets/favicon.png
   title: "Research Proposal"
   search: false
   navbar:
@@ -26,7 +27,7 @@ website:
   
 
   page-footer:
-      center: "© Copyright 2024 Greg Maya."
+      center: "© Copyright 2025 Greg Maya."
 
 
 format:
