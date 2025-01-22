@@ -1,12 +1,13 @@
 ---
-title: "About it"
+title: "Abstract"
+subtitle: From logistics to high-level research summary
 ---
 
 <a href="abstract/index.qmd" class="btn btn-primary btn-sm" role="button">Full Screen</a>
  available.
 
 ```{=html}
-<iframe class="slide-deck" src="abstract/" width="100%" height="800px"></iframe>
+<iframe class="slide-deck" src="abstract/" width="100%" height="600px"></iframe>
 ```
 
 

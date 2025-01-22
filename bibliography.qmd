@@ -1,10 +1,24 @@
 ---
 title: "Bibliography"
-author: "Greg Maya"
+csl: ref_styles/chicago-author-date.csl
+bibliography: 
+    - biblio/Urban Planning Health Challenges.bib
+    - biblio/Nature Mental Health Ecosystem Service.bib
+    - biblio/Urban Tree Biodiversity Citation.ris
+    - biblio/Residential Green Spaces and Mortality.bib
+    - biblio/Superblock Model Urban Design.bib
+    - biblio/Global Variation in the Effects of Ambient Temperature on Mortality.ris
+    - biblio/Long-term Concentrations of Nitrogen Dioxide and Mortality.ris
+    - biblio/Non-vigorous Physical Activity 2025.bibtex
+    - biblio/Built Environment Physical Activity Obesity.bib
+    - biblio/land use, transport and population health.ris
+nocite: |
+  @*
 ---
+::: {.callout-important}
+_The formating of this page is changing to incorporate new, more robust ways of refericing._
+:::
 
-
-:::{.panel-tabset}
 ## Papers
 
 - Cesaroni, Giulia, Francesco Forastiere, David Stafoggia, et al. "Long term exposure to ambient air pollution and incidence of acute coronary events: Prospective cohort study and meta-analysis in 11 European cohorts from the ESCAPE Project." *International Journal of Epidemiology* 40, no. 1 (2011): 121-130. [Link to paper](https://academic.oup.com/ije/article/40/1/121/658816)
@@ -12,8 +26,6 @@ author: "Greg Maya"
 - Beelen, Rob, Gerard Hoek, Piet A. van den Brandt, et al. "Long-term exposure to traffic-related air pollution and lung cancer risk." *Epidemiology* 25, no. 5 (2014): 712-720. [Link to paper](https://journals.lww.com/epidem/fulltext/2014/11000/global_variation_in_the_effects_of_ambient.1.aspx)
 
 - Burnett, Richard T., C. Arden Pope III, Majid Ezzati, et al. "An integrated risk function for estimating the global burden of disease attributable to ambient fine particulate matter exposure." *Annual Review of Public Health* 35 (2014): 49-67. [Link to paper](https://www.annualreviews.org/doi/abs/10.1146/annurev-publhealth-040218-043657)
-
-- Atkinson, Richard W., Ben Armstrong, H. Ross Anderson, et al. "Long-term concentrations of nitrogen dioxide and mortality: A meta-analysis of cohort studies." *Environment International* 74 (2015): 41-48. [Link to paper](https://www.sciencedirect.com/science/article/pii/S0160412015300799)
 
 - Crouse, Dan L., Paul A. Peters, Aaron van Donkelaar, et al. "Risk of nonaccidental and cardiovascular mortality in relation to long-term exposure to low concentrations of fine particulate matter: A Canadian national-level cohort study." *Epidemiology* 23, no. 4 (2012): 484-491. [Link to paper](https://journals.lww.com/epidem/fulltext/2018/07000/long_term_concentrations_of_nitrogen_dioxide_and.2.aspx)
 
@@ -27,8 +39,3 @@ author: "Greg Maya"
 ## Videos
 - BUPA's Documentary : HEALTHY CITIES
 {{< video https://www.youtube.com/watch?v=7vrQqAEJ10E >}}
-
-
-## Podcasts
-
-:::

@@ -1,8 +1,7 @@
 ---
-title: Initiatives
-author: "Greg Maya"
+title: Health Initiatives
 ---
-The following is a conceptual breakdown of frameworks, policies and initiatives that city developers need to navigate before implemeting projects on-the-ground that resonate at different scales. 
+The following is a conceptual breakdown of frameworks, policies and initiatives that city developers need to navigate before implemeting projects on-the-ground. Navigating this maze (at different scales) is only part of the implementation challenges. 
 
 :::{.panel-tabset}
 ## **Global and Multilateral**

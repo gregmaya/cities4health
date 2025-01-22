@@ -5,11 +5,13 @@ date: "January 2025"
 author: "Greg Maya"
 format: 
   revealjs:
-    theme: "simple"
+    theme: "serif"
     smaller: true
     scrollable: true
-    auto-stretch: false
+    auto-stretch: true
     footer: "© Copyright 2025 Greg Maya."
+    date-format: "MMMM YYYY"
+css: custom.css
 ---
 
 ## Purpose
@@ -18,112 +20,100 @@ Outline the project and explore partnership opportunities with Industry and Acad
 
 **Covered in this document:**
 
-::: {.columns}
-::: {.column width="50%"}
+1. [Logistics](#logistics)  
+1. [Parties](#parties)
+1. [Research Topic](#research-topic)
+1. [Research Components](#research-components)
+1. [Outcomes for Partners](#outcomes-for-partners)
+1. [Next Steps](#next-steps)
 
-  1. [The Logistics](#the-logistics)
-  2. [The Parties](#the-parties)
-  3. [The Research Topic](#the-research-topic)
-
-:::
-
-::: {.column width="50%"}
-
-  4. [Research Components](#research-components)
-  5. [Outcomes for Partners](#potential-outcomes-for-partners)
-  6. [Next Steps](#next-steps)
-
-:::
-:::
+> This proposal is a starting point for discussion. Items <mark>highlighted</mark> in the document are subject to agreement between parties.
 
 ---
 
-## The Logistics
+## Logistics
+
+The logistical framework proposed is based on the industrial researcher program from the [Danish Innovation Fund](https://innovationsfonden.dk/en/p/industrial-researcher).
 
 ### What is an Industry PhD?
 
-> _The purpose of the Industrial Researcher program is to establish closer ties between companies and the university, as well as to connect young researchers to the private business sector. This is done through a collaboration between a company, a university and a PhD student or post.doc graduate._
-
-
-::: {.columns}
-::: {.column width="48%"}
+> _The purpose of the Industrial Researcher program is to establish closer ties between companies and the university, as well as to connect young researchers to the private business sector. This is done through a collaboration between a company, a university and a PhD student._
 
 - **Funding limits:**
   - Company: DKK 22,000 (~2,950 EUR) per month as subsidy to reseacher.
   - University: DKK 10,000 (~1,340 EUR) per month
-
-- **Research location:** 
-<mark>Europe.</mark> The research is intended to explore regulatory frameworks in european cities.
-
-:::
-::: {.column width="48%"}
-
-- **Time:** 3-year funded program
-- **Deadlines**:
-Applications are not yet open, commonly two rounds of applications are run per year: **April** and **October**. The aim is to apply to the spring version, expecting answers by **June 2025**.
-
-:::
-:::
-
-<footer style="text-align: center; font-size: 0.8em; margin-top: 50px;">
-
-Find more at [Danish Innovation Fund: Industrial Researcher](https://innovationsfonden.dk/en/p/industrial-researcher)  
-
-</footer>
-
+- **Time:**  
+  3-year funded program
+- **Research location:**  
+  <mark>Europe (_eg.Brussels_)</mark>  
+  This research proposal is intended to explore regulatory frameworks in european cities.
+- **Deadlines**:  
+  Applications are not yet open, commonly two rounds of applications are run per year: **April** and **October**. The aim is to apply to the spring version, expecting answers by **June 2025**.
 
 
 ---
 
 ## Parties
 
+Suggested partners, with whom initial discussions have indicated potential interest in participating. This is by no means an exhaustive list, nor are the names/companies mentioned here the only possible collaborators.
 
 :::{.panel-tabset}
 
 ### The Researcher
 
-**Me!**  
+[LinkedIn/gregoriomaya](https://www.linkedin.com/in/gregoriomaya/)
 
-I am Gregorio Maya, **City Science Coordinator** at the [Norman Foster Institute](https://normanfosterinstitute.org/) and a freelance consultant for various NGOs. My focus lies in **data-driven analysis of urban environments**, particularly through applied research in **technology integration** within public policy for urban planning. Trained as an architect with a _Summa Cum Laude_ degree, I have transitioned from traditional design to consulting on modeling complex systems within the built environment.
+I am Greg Maya, **City Science Coordinator** at the [Norman Foster Institute](https://normanfosterinstitute.org/) and a freelance consultant for various NGOs. With over 9 years of professional expertise in urban development, my focus lies in **data-driven analysis of urban environments**, particularly through applied research in **technology integration** within public policy for urban planning. Trained as an architect with a _Summa Cum Laude_ degree, I have transitioned from traditional design to consulting on modeling complex systems within the built environment.
 
-In my current role, I co-lecture in Urban Analytics and lead the technical development of sustainability tools for cities. My recent work includes collaborating with municipalities to shape and implement **Climate Action Plans (CAP)**, aligning urban growth with climate resilience. In a nutshell, I contribute to developing solutions that integrate **data science, urban design, and sustainability**.
+In my current role, I co-lecture in Urban Analytics and lead the technical development of sustainability tools for cities. My recent work includes collaborating with municipalities to shape and implement **Climate Action Plans (CAP)**, aligning urban growth with climate resilience. I am particularly interested in applying my experience to promote **health-positive urban development**, ensuring that urban planning decisions contribute to better health outcomes for communities. 
 
-In parallel, I consult for NGOs, providing data insights and visualizations that support **impactful development** across various sectors.
-
-I maintain academic ties with my _alma maters_, [The Bartlett-UCL](https://www.ucl.ac.uk/bartlett/architecture/bartlett-school-architecture) (UK) and [Universidad de los Andes](https://arqdis.uniandes.edu.co/) (COL), and collaborate closely with professors at [MIT - Media Lab](https://www.media.mit.edu/) (USA), [UAM](https://www.uam.es/uam/en/inicio) (ES), and [UCA Canterbury](https://www.uca.ac.uk/study/subject/architecture/) (UK), among many others.
+In parallel, I consult for NGOs, providing data insights and visualizations that support impactful development across various sectors.
 
 ### Industry Partner(s)
 
-[**Ramboll**](https://www.ramboll.com/contact-us/denmark)(Danish HQ)  
-- Their role and potential benefits from collaboration.
+[**Ramboll**](https://www.ramboll.com/contact-us/denmark)  (Danish HQ)  
+Their involvement in the process could be crucial for several aspects:
+  - A Danish-based company is required to apply for the research fund subsidies. Moreover, Ramboll’s experience with past applications could prove beneficial for this one.
+  - Ramboll’s multidisciplinary and multinational practice offers internal possibilities to tap into practical expertise and implement solutions as part of the study results.
+  - Ramboll’s current network of partners and clients could also be enticed into the partnership, depending on shared interests and overlap.
 
-[**BUPA**](https://www.bupa.com/impact/sustainability/our-sustainability-missions)
-- Potential inclusion and their alignment with health-driven urban strategies.
+[**BUPA**](https://www.bupa.com/impact/sustainability/our-sustainability-missions)  
+Given their expertise in the health sector, their input would be highly appreciated to enrich the understanding of this multidisciplinary study. Their **sustainability** department already works on health-driven urban strategies and this research could complement the broader vision of the projects effectively.
 
 ### Academic Partner
 
-> _TBC : these are some initial names that could be approached given their field of expertise, their track reccord on timely research and/or compatibility with other partners._  
+ _These are some initial names given their field of expertise, their track reccord on timely research and/or compatibility with other partners._  
 
-Candidates:  
+**Institutions**:
+  - try to find that place in north BG to add
+  - Barcelona health center.
+  - check also the spreadsheet I have with NAMEs
+ 
+**Candidates**:  
   - [Dr. Jens Kandt, CASA - UCL](https://profiles.ucl.ac.uk/37018)  
   - [Dr. Robert Hughes, The London School of Hygiene & Tropical Medicine](https://www.lshtm.ac.uk/aboutus/people/hughes.robert)
 
 :::
 
 
+
 ---
 
-## The Research Topic
+## Research Topic
 
-### Main Focus
-"The challenges of implementing health outcomes as drivers of urban development."
+<br>
 
-### Why It Matters
-- Address societal and commercial value for Ramboll/BUPA.
-- Align with global trends like sustainability and public health.
+> ### Implementing Health Outcomes as Drivers of Urban Development:  
+#### The challenges, opportunities, and potential cost savings of an urban implementation that embraces multidisciplinarity.
 
-### Sub-Sections
-#### Context  
+<br>
+
+#### Research Questions
+- How can urban planning integrate health outcomes effectively?
+- What are the economic implications of health-driven urban development?
+- How can multidisciplinary approaches enhance urban health outcomes?
+
+#### Context 
 - **Frameworks:**  
   - SDGs: List the relevant ones (e.g., SDG 3 and SDG 11).
   - Other urban policies as relevant.
@@ -132,6 +122,7 @@ Candidates:
 1. **Narrative mismatch:** Challenges at the intersection of two disciplines.  
 2. **Untracked urban development:** Lack of rigorous long-term tracking methodologies.  
 3. **Lack of technical skill:** Urbanists often lack training in certain techniques.
+
 
 ---
 
@@ -143,7 +134,9 @@ A summary of key studies and trends in health-focused urban development.
 
 ### Case Studies  
 _TBC_  
-- Potential inclusion of cases from Ramboll’s ongoing projects or new initiatives.
+- Potential inclusion of cases from partner's ongoing projects or new initiatives.
+
+### Methodologies
 
 ### Research Goals
 - Create links between policies and tangible health-driven urban actions. 
@@ -153,7 +146,7 @@ _TBC_
 
 ---
 
-## Potential Outcomes for Partners
+## Outcomes for Partners
 
 ### Strategic Benefits for Industry Partners
 - Thought leadership in health-driven urban development.  
@@ -163,17 +156,17 @@ _TBC_
 ### Practical Deliverables
 - Policy guidelines.  
 - Data-driven tools and frameworks.
+- <ark>Others</mark>
 
 ---
 
 ## Next Steps
 
-### Action Plan
-- **Timeline:** Finalize the proposal and application.  
-- **Opportunities for collaboration:** Identify ways Ramboll/BUPA can contribute.
+- **Dissemination:** Sharing this document with parties to narrow down details and approaches.
 
-### Call to Action
-- Specific next steps, e.g., co-funding, data sharing, or mentorship.
+- **Opportunities for collaboration:** Agree on partner's list and set up initial responsibilities.
+
+- **Application:** Finalize the proposal, ideally before end March, to have time to sumbit ASAP after the open call.
 
 ---
 

@@ -8,7 +8,7 @@ website:
   navbar:
     left:
       - href: about.qmd
-        text: "About it"
+        text: "Abstact"
       - text: "References"
         menu: 
         - href: initiatives.qmd
