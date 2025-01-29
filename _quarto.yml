@@ -5,10 +5,10 @@ website:
   favicon: assets/favicon.png
   title: "Research Proposal"
   search: false
+  back-to-top-navigation: true 
   navbar:
     left:
-      - href: about.qmd
-        text: "Abstact"
+      - href: abstract/application_prep.qmd
       - text: "References"
         menu: 
         - href: initiatives.qmd

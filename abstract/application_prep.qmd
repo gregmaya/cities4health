@@ -1,0 +1,326 @@
+---
+title: Application Prep
+subtitle: An Industry PhD Opportunity
+date: "January 2025"
+author: "Greg Maya"
+date-format: "MMMM YYYY"
+toc: true
+reader-mode: true
+toc-depth: 3
+css: custom.css
+
+---
+
+#### _From logistics to high-level research summary_
+
+## Purpose
+
+Outline the project and explore partnership opportunities with Industry and Academia to apply for funding for an Industry PhD.
+
+> This proposal serves as a foundation for discussion. Items <mark>highlighted</mark> in the document are of particular interest for feedback and agreement among the parties.
+
+<br> <br> 
+
+<div class="section-grey">
+
+## Logistics
+
+The logistical framework proposed is based on the industrial researcher program from the [Danish Innovation Fund](https://innovationsfonden.dk/en/p/industrial-researcher).
+
+### What is an Industry PhD?
+
+> _The purpose of the Industrial Researcher program is to establish closer ties between companies and the university, as well as to connect young researchers to the private business sector. This is done through a collaboration between a company, a university and a PhD student._
+
+- **Funding limits:**
+  - Company: DKK 22,000 (~2,950 EUR) per month as subsidy to reseacher.
+  - University: DKK 10,000 (~1,340 EUR) per month
+- **Time:**  
+  3-year funded program
+- **Research location:**  
+  <mark>Europe (_eg. Brussels, Copenhagen, other(s) - mix?_)</mark>  
+  This research proposal is intended to explore regulatory frameworks in european cities.
+- **Deadlines**:  
+  Applications are not yet open, commonly two rounds of applications are run per year: **April** and **October**. The aim is to apply to the spring version, expecting answers by **June 2025**.
+
+</div>
+
+<br>
+
+## Parties
+
+Suggested partners, with whom initial discussions have indicated potential interest in participating. This is by no means an exhaustive list, nor are the names/companies mentioned here the only possible collaborators.
+
+:::{.panel-tabset}
+
+### The Researcher
+
+I am Greg Maya, **City Science Coordinator** at the [Norman Foster Institute](https://normanfosterinstitute.org/) and a freelance consultant for various NGOs. With over 9 years of professional expertise in urban development, my focus lies in **data-driven analysis of urban environments**, particularly through applied research in **technology integration** within public policy for urban planning. Trained as an architect with a _Summa Cum Laude_ degree, I have transitioned from traditional design to consulting on modeling complex systems within the built environment.
+
+In my current role, I co-lecture in Urban Analytics and lead the technical development of sustainability tools for cities. My recent work includes collaborating with municipalities to shape and implement **Climate Action Plans (CAP)**, aligning urban growth with climate resilience. I am particularly interested in applying my experience to promote **health-positive urban development**, ensuring that urban planning decisions contribute to better health outcomes for communities. 
+
+In parallel, I consult for NGOs, providing data insights and visualizations that support impactful development across various sectors.
+
+### Industry Partner(s)
+
+[**Ramboll**](https://www.ramboll.com/contact-us/denmark)  (Danish HQ)  
+Their involvement in the process could be crucial for several aspects:
+
+  - A Danish-based company is required to apply for the research fund subsidies. Moreover, Ramboll’s experience with past applications could prove beneficial for this one.
+  - Ramboll’s multidisciplinary and multinational practice offers internal possibilities to tap into practical expertise and implement solutions as part of the study results.
+  - Ramboll’s current network of partners and clients could also be enticed into the partnership, depending on shared interests and overlap.
+
+#### Of potential interest
+  - [Dr. Shira de Bourbon Parme](https://www.linkedin.com/in/shira-dbp/?originalSubdomain=uk), Principal Consultant, London
+  - <mark>Identify more internal champions</mark>
+
+___
+
+[**BUPA**](https://www.bupa.com/impact/sustainability/our-sustainability-missions)  
+Given their expertise in the health sector, their input would be highly appreciated to enrich the understanding of this multidisciplinary study. Their **sustainability** department already works on health-driven urban strategies and this research could complement the broader vision of the projects effectively (2025 vision is soon to be released).
+
+### Academic Partner
+
+:::::: {.callout-note}
+_These are some initial names given their field of expertise, their track reccord on timely research and/or compatibility with partners. Given my personal background in the built environment, I have certain preference to look for a candidate with a background in EU Health Policy._ 
+:::
+
+**Candidates**:
+Only some the shorlisted below have expressed to have capacity/interes for enroling into this. The search is still ongoing.
+
+  - [Dr. Jens Kandt, CASA - UCL](https://profiles.ucl.ac.uk/37018)  
+  - [Dr. Robert Hughes, The London School of Hygiene & Tropical Medicine](https://www.lshtm.ac.uk/aboutus/people/hughes.robert)  
+  - [Dr. Mark J Nieuwenhuijsen](https://www.isglobal.org/en/our-team/-/profiles/18505)
+  - [Dr. Ann Forsyth, GSD - Harvard](https://annforsyth.net/)
+
+
+**Institutions**:  
+Because of their related research. 
+
+  - [ISGlobal Barcelona](https://www.isglobal.org/en/)
+  - The Alan Turing Institute:  
+  See one of their 3 'Grand Challenges': [Transformation on Health](https://www.turing.ac.uk/research/transformation-health)
+
+:::
+
+<br> 
+
+<div class="section-grey">
+
+## Research Topic
+<br>
+
+<div style="text-align: center;">
+
+> ### Implementing Health Outcomes as Drivers of Urban Development:  
+#### Challenges, Opportunities, and Potential Cost Savings of Focusing on Non-Communicable Diseases (NCD) in Urban Planning.
+
+</div>
+
+### Context 
+Urban development has traditionally prioritized economic growth, infrastructure efficiency, and real estate value, often overlooking health outcomes as a fundamental driver of planning decisions. However, with increasing evidence linking urban environments to public health—particularly in relation to non-communicable diseases (NCDs)—there is an urgent need to reposition health at the core of urban policy and design.
+
+Key frameworks supporting this shift include:
+
+  - Sustainable Development Goals (SDGs): Particularly SDG 3 (Good Health and Well-being) and SDG 11 (Sustainable Cities and Communities), which advocate for healthier, more inclusive urban spaces.
+
+  - European Urban Agenda: Policies emphasizing health-oriented urban interventions through active mobility, pollution control, and equitable public space distribution.
+
+  - Sectorial Adaptation Plans (SAPs): These frameworks address climate change’s sectoral impacts, including health, and are progressively influencing urban planning. Notably, Finland has already integrated health considerations into SAPs, while other European nations are beginning to explore similar approaches.
+
+Given that SAPs are still in their infancy within urban health contexts, this research presents a unique opportunity to contribute to evidence-based planning methodologies and policy recommendations.
+
+### The Problems
+According to some early literature review and my own epxerience in the field, one could argua that despite a growing recognition of the links between urban planning and health, several critical challenges persist:
+
+  - **Sectoral Disconnect**: Urban planning and public health operate in silos, leading to misaligned policies and missed opportunities for integrated solutions.
+
+  - **Limited Health Integration**: Planning policies often neglect health considerations, lacking tools to incorporate public health objectives.
+
+  - **Lack of Monitoring & Data**: No standardized methods exist to track long-term health impacts of urban interventions, weakening evidence-based policymaking.
+
+  - **Capacity Gaps**: Urban planners often lack public health expertise, and health professionals are unfamiliar with urban design processes.
+
+  - **Short-Term Prioritisation**: Development pressures favour immediate economic returns over long-term health benefits, limiting investment in preventative urban strategies.
+
+  - **Health Inequities**: Low-income and marginalised communities face disproportionate environmental health risks due to inadequate urban planning.
+
+  - **Limited Community Engagement**: Planning decisions frequently exclude local voices, resulting in policies that fail to address residents' needs.
+
+### Research Questions
+_These are likely to evolve_
+
+1. #### How can urban planning integrate health outcomes effectively?
+
+    - What policies and spatial interventions best align urban design with public health?
+    - How can health impact assessments be mainstreamed in planning frameworks?
+
+1. #### What are the economic implications of health-driven urban development?
+
+    - How do walkability, pollution reduction, and active mobility affect healthcare costs and workforce productivity?
+    - What financial incentives can encourage health-positive urban investments?
+
+1. #### How can multidisciplinary approaches enhance urban health outcomes?
+
+    - What collaborative models between planners, health experts, and policymakers are most effective?
+    - How can decision-support tools bridge research and practical implementation?
+
+</div>
+
+<br>
+
+## Research Components & Outcomes
+
+These are 4 components / outcomes that are expected during this research. Some are traditional elements of academic PhDs but given the industrial nature of this one, some outcomes might more practical and hence less traditional. 
+
+### 1. Literature Review  
+A summary of key studies and trends in health-focused urban development. An early approach to this can be found under the [Bibliography tab](../bibliography.qmd).
+
+:::::: {.callout-note}
+It's worth noting that even though some research papers might be expected from this research, they might be a by-product of the actual work and not part of the end goals (described better under the [research goals section](#research-goals)).
+::::::
+
+### 2. Case Studies  
+Several factors will influence the selection of the case studies. However, it's expected to select a pool of cities (around 4) in which one can foresee opportinities to develop and implement change (or that such change is already underway). This will help inform the actual impacts on the medium term of those changes.
+
+If following the logic of SAP's development, selecting cities from the following countries could create a strong roadmap of shorlisted cities. 
+ 
+ - **Finland** already has SAP's in health sector.  
+ - **Sweeden** and **Ireland** SAP's in multiple sectors (eg. forestry, biodiversity, transport, the built environment and health , amonst others)
+
+Some cities outside the countries above that could also be good to contemplate:  
+
+- **Copenhagen, Denmark**  
+  Known for its innovative urban planning and commitment to sustainability, Copenhagen provides a model for integrating health outcomes into urban development.
+- **Brussels, Belgium**  
+  As the de facto capital of the European Union, Brussels presents a unique case for examining the intersection of urban development and health policy within a regulatory framework.
+- **Barcelona, Spain**  
+  With its focus on public health and urban mobility, Barcelona offers valuable insights into the impact of urban design on health outcomes.
+  - _The Superblock_ model is a pivotal case study.
+
+- **London, United Kingdom**  
+  As a global city with diverse urban challenges, London’s approach to health-driven urban planning can provide a comprehensive case study.
+
+- <mark>Potential inclusion of cases from partner's ongoing projects or new initiatives.</mark>
+
+### 3. Research Goals
+This research aims to generate evidence-based insights and practical tools that support health-driven urban development. The expected outcomes are structured as follows:
+
+1. Spatial Analysis of Urban Health Determinants
+
+  - Quantification of the spatial determinants affecting urban health disparities.
+  - Identification of urban interventions linked to reduced non-communicable diseases (NCDs) and improved public health.
+
+2. Economic Evaluation of Health-Driven Urban Development
+
+  - A quantifiable economic argument for urban health interventions, supporting evidence-based policymaking.
+  - Identification of urban projects that have yielded economic and health benefits, offering transferable insights for policymakers and industry.
+
+3. Decision-Support Framework for Policy & Industry Application
+
+  - Industry-focused deliverables:
+    - A data-driven urban planning tool for health-focused design and policy evaluation.
+    - Guidelines for SAP integration, helping municipalities integrate health outcomes into climate adaptation strategies.
+
+  - <mark>Additional goals to refine based on partners’ input.</mark>
+
+### 4. Methodologies
+This research will adopt a comparative case study approach across selected European cities, integrating spatial analytics, economic modeling, and policy evaluation to assess the relationship between urban planning decisions and health outcomes. The methodology will be structured around three key components:
+
+:::{.panel-tabset}
+
+### Spatial Analysis of Urban Health Determinants
+
+Leveraging my background in GIS data science, network-based spatial metrics, and Space Syntax methods, this study will analyze the built environment’s impact on public health (e.g., walkability, green spaces, pollution exposure). The methodology will involve:
+
+<u>Defining Key Urban Variables:</u>  
+
+  - Walkability & Connectivity: Graph-theory-based analysis of pedestrian networks (e.g., integration, betweenness, and choice metrics from Space Syntax).
+  - Land Use & Accessibility: Mixed-use density, healthcare facility access, and mobility infrastructure.
+  - Environmental Factors: Pollution levels, green/blue space proximity, noise exposure.
+
+<u>Data Sources (initial):</u>  
+
+  - Open-access spatial datasets from Eurostat, EEA, and municipal planning agencies.
+  - High-resolution air pollution and noise maps (e.g., Copernicus, local environmental monitoring stations).
+  - Mobility datasets (e.g., transit networks, bike-sharing systems).
+
+### Economic Evaluation of Health-Driven Urban Development
+
+A core objective is to establish the economic case for prioritizing health in urban planning. This will involve:
+
+<u>Cost-Benefit Analysis (CBA) of urban health interventions:</u>  
+
+  - Estimating healthcare cost savings from improved walkability, active mobility infrastructure, and pollution reduction.
+  - Health-Economic Metrics: Disability-adjusted life years (DALYs), healthcare expenditure reductions.
+  - Comparing real estate value shifts in areas where health-positive planning strategies have been implemented (e.g., Superblocks in Barcelona).
+
+<u>Data & Tools:</u>  
+
+  - Public health expenditure datasets from OECD, WHO, and national health agencies.
+  - Economic modeling based on prior research linking urban interventions with health cost savings.
+
+### Decision-Support Framework for Policy & Industry Application
+
+This research aims to bridge the gap between academia, industry, and policy implementation by creating practical tools to support urban decision-making:
+
+<u>Urban Health Impact Assessment (UHIA) Tool</u>  
+
+  - A spatial decision-support model integrating health risk factors, walkability, and economic impacts of urban interventions.
+  - Designed for use by city planners, real estate developers, and policymakers to inform development choices.
+
+<u>Policy Recommendations for Sectoral Adaptation Plans (SAPs)</u>
+
+  - Integration of urban health metrics into ongoing European SAPs.
+  - Identification of gaps in regulatory frameworks and policy levers for incentivizing health-driven planning.
+
+:::
+
+<br>
+
+<div class="section-grey">
+
+## Final thoughts
+
+#### Strategic Benefits for Industry Partners
+
+  - Thought leadership in health-driven urban development, positioning companies at the forefront of integrating health considerations into urban planning.
+  - New commercial opportunities through innovative frameworks, creating scalable business models for health-centric urban projects.
+  - Enhanced corporate social responsibility (CSR) by contributing to urban policies that improve public health and sustainability.
+  - Long-term societal impact on public health and urban sustainability, influencing decision-making at the municipal and regional levels.
+
+#### Strategic Benefits for Academic Partners
+
+  - Opportunities for high-impact research in an emerging interdisciplinary field combining urban planning, health policy, and economic analysis.
+  - Strengthened industry-academic collaboration, facilitating knowledge transfer between universities and real-world urban planning projects.
+  - Access to industry data and practical case studies, enriching research with real-world applications and empirical validation.
+  - Increased funding potential, leveraging industry-backed research for grant applications and academic-industry partnerships.
+
+</div>
+
+<br>
+
+## Next Steps
+
+- **Dissemination:** Sharing this document with parties to narrow down details and approaches.
+
+- **Opportunities for collaboration:** Agree on partner's list and set up initial responsibilities.
+
+- **Application:** Finalize the proposal, ideally before end March, to have time to submit ASAP after the open call.
+
+<br>
+
+## Contact
+
+::: {.columns}
+::: {.column}
+
+I would be happy to hear from you.
+
+- Email: [gregoriomaya@gmail.com](mailto:gregoriomaya@gmail.com)
+- LinkedIn: [/gregmaya](https://www.linkedin.com/in/gregoriomaya/)
+
+:::
+::: {.column}
+### Thanks!
+:::
+:::

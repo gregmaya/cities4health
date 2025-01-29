@@ -1,20 +1,23 @@
-.reveal {
+.section-grey {
     background-color: #f6f6f6;
+    padding: 10px;
 }
 
-.reveal a {
+a {
     color: #187edc;
     /* Replace with your desired link color */
 }
 
-.reveal a:hover {
+a:hover {
     color: #0b61c4;
     /* Replace with your desired hover color */
 }
 
-.reveal p {
+p {
     font-family: 'Helvetica', sans-serif;
     color: #333333;
-    /* Dark grey color */
-    /* Replace with your desired font family */
+}
+
+h2 {
+    color: #325d88;
 }
