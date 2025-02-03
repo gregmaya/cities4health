@@ -204,6 +204,10 @@ Some cities outside the countries above that could also be good to contemplate:
   With its focus on public health and urban mobility, Barcelona offers valuable insights into the impact of urban design on health outcomes.
   - _The Superblock_ model is a pivotal case study.
 
+- **Rijeka, Valencia, and Rotterdam**
+  All forming part of the current [HORUS](https://horus-urbanhealth.eu/) (Health Outcomes from Raised Urban Settings). Any / all could well be selected as case studies given the ongoing research in this area already.
+
+
 - **London, United Kingdom**  
   As a global city with diverse urban challenges, London’s approach to health-driven urban planning can provide a comprehensive case study.
 
