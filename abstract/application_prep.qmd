@@ -92,6 +92,7 @@ _These are some initial names given their field of expertise, their track reccor
 **Candidates**:
 Only some the shorlisted below have expressed to have capacity/interes for enroling into this. The search is still ongoing.
 
+  - [Dr. Anne Bach Nielsen](https://researchprofiles.ku.dk/en/persons/anne-bach-nielsen)
   - [Dr. Jens Kandt, CASA - UCL](https://profiles.ucl.ac.uk/37018)  
   - [Dr. Robert Hughes, The London School of Hygiene & Tropical Medicine](https://www.lshtm.ac.uk/aboutus/people/hughes.robert)  
   - [Dr. Mark J Nieuwenhuijsen](https://www.isglobal.org/en/our-team/-/profiles/18505)
@@ -101,6 +102,7 @@ Only some the shorlisted below have expressed to have capacity/interes for enrol
 **Institutions**:  
 Because of their related research. 
 
+  - University of Copenhagen : Department of Public Health Sciences - School of Global Health 
   - [ISGlobal Barcelona](https://www.isglobal.org/en/)
   - The Alan Turing Institute:  
   See one of their 3 'Grand Challenges': [Transformation on Health](https://www.turing.ac.uk/research/transformation-health)
