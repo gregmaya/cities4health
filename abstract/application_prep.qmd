@@ -25,22 +25,27 @@ Outline the project and explore partnership opportunities with Industry and Acad
 
 ## Logistics
 
-The logistical framework proposed is based on the industrial researcher program from the [Danish Innovation Fund](https://innovationsfonden.dk/en/p/industrial-researcher).
+The logistical framework proposed is based on the industrial researcher program from the [Danish Innovation Fund](https://innovationsfonden.dk/en/p/industrial-researcher/industrial-phd-private-sector-9). *_(link updated with current open call)_.
 
 ### What is an Industry PhD?
 
 > _The purpose of the Industrial Researcher program is to establish closer ties between companies and the university, as well as to connect young researchers to the private business sector. This is done through a collaboration between a company, a university and a PhD student._
 
 - **Funding limits:**
-  - Company: DKK 22,000 (~2,950 EUR) per month as subsidy to reseacher.
-  - University: DKK 10,000 (~1,340 EUR) per month
+  - Company: 
+    - DKK 17,000 (~2,280 EUR) per month as subsidy to reseacher.
+    - DKK 100,000 (~13,400 EUR) for student's travel and participation of courses.
+  - University: DKK 360,000 (~ 48,200 EUR).
 - **Time:**  
   3-year funded program
 - **Research location:**  
   <mark>Europe (_eg. Brussels, Copenhagen, other(s) - mix?_)</mark>  
   This research proposal is intended to explore regulatory frameworks in european cities.
 - **Deadlines**:  
-  Applications are not yet open, commonly two rounds of applications are run per year: **April** and **October**. The aim is to apply to the spring version, expecting answers by **June 2025**.
+  - Opening: 4th Feb, 2025
+  - Closing: 4th March, 2025
+  
+  Commonly two rounds of applications are run per year: **April** and **October**. The aim is to apply to the current open version, expecting answers by **June 2025**.
 
 </div>
 
