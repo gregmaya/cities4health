@@ -1,0 +1,84 @@
+---
+title : State of the Art 
+---
+
+:::{.callout title= 'Brief' collapse="true"}
+
+### State-of-the-art and theoretical background  
+State-of-the-art and, if relevant, theoretical background for the Industrial PhD project’s field of research
+
+Here, please describe the current state of the Industrial PhD project's specific research field: **How far has the research advanced, which barriers and openings have been encountered, what is known, and what is not known?** Refer to research literature in the description.
+
+This section must describe where the research field is right now and is the reference point for the project objectives. If the field is unexplored, adjacent fields should be described. 
+
+:::
+
+# Outline GMP
+- present the intersection of the field
+    - brief sumary on history ("how far has the research advanced")
+    - the different tangents : epydemiology, NCDs, mental health
+    - the current integration of public health into urban policy.
+        - how one part of it now sits under the broader umbrella of sustainable development goals (SDGs) and the global health agenda. -> Adapttion policy
+        - how Europe is making it implementable SOAPs (= oportunity)
+            - identify sectir's vulnerabilities
+            - set measurable targets
+            - Detail hard (infrastructure) and soft (institutional and behavioural) measures that can be implemented at a city level.
+        
+- ("barriers")Current challenges/
+    - Knowledge transfers
+    - The economic benefits (ROI) from individual plans
+    - The methodological excecution (what do we measure and how) 
+    
+- ("openings") The emergence of new methodologies
+    - System Science (system dynamics modeling)
+        - Complex Adaptive Models
+    - Network Analysis
+    - agent-based modelling
+    
+
+
+____
+
+# Outline ChatGPT
+
+Title:
+State-of-the-Art in Health-Driven Urban Adaptation in Europe: Integrating System Science, Complex Adaptive Models, and Sectoral Adaptation Plans (SOAPS)
+
+1. Introduction & Context
+
+Briefly describe the urgent need to reorient urban development towards improved public health and climate resilience in Europe.
+Mention the relevance of the European Green Deal, EU Adaptation Strategy, and Sustainable Development Goals (SDG 3 & 11).
+Introduce the emerging concept of SOAPS as a policy tool for integrating health and adaptation objectives across sectors.
+
+2. Theoretical Foundations
+
+System Science & Complex Adaptive Models:
+Define system science as the study of interdependent, dynamic systems where feedback loops and emergent properties are key.
+Explain complex adaptive models as frameworks that capture how urban environments adapt through decentralized, interacting agents (e.g., planners, citizens, health services).
+Emphasize that these models allow for non-linear, emergent outcomes that traditional linear approaches often overlook.
+
+3. Policy and Regulatory Environment in Europe
+
+Outline the evolution of EU policy instruments—from the 2013 EU Adaptation Strategy to recent directives and guidelines—highlighting the shift towards mainstreaming adaptation into sector-specific policies (e.g., water, transport, public health).
+Discuss when and how SOAPS started being integrated into national/regional frameworks (e.g., statutory requirements emerging in some Member States from around 2015).
+Briefly mention key EU documents and reports (e.g., EEA reports, European Commission guidelines).
+
+4. Opportunities & Benefits of Sectoral Adaptation Plans (SOAPS)
+
+Enhanced Urban Resilience:
+Improved targeted measures (e.g., flood defenses, green infrastructure) that reduce climate risks and yield co-benefits such as lower urban heat and better air quality.
+Economic & Health Co-Benefits:
+Reduced healthcare costs, increased productivity, and improved property values linked to health-positive urban interventions.
+Integrated Policy Synergies:
+Better coordination among disparate sectors (urban planning, health, transport) through horizontal governance, leading to more coherent and effective adaptation strategies.
+
+5. Research Implications for a PhD
+
+Position system science and complex adaptive models as innovative methodologies to analyze and predict urban dynamics and health outcomes.
+Highlight the potential for developing decision-support tools (e.g., urban health impact assessments) that can guide both policy and industry practice.
+Emphasize the interdisciplinary nature and real-world applicability of this research, making it a fertile area for high-impact academic work.
+Conclusion
+
+Summarize the state-of-the-art in integrating health outcomes into urban planning through SOAPS and adaptive systems models, noting their promise for future research and practical impact in European cities.
+
+

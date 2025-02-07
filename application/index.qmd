@@ -1,0 +1,16 @@
+---
+title : Application
+---
+
+# Completed steps
+
+- [x] Sign up to a [e-grant](https://www.e-grant.dk/)
+    - [x] Started an application (to familiarize with the system)
+
+
+
+# Key Docs
+- In [this Drive](https://drive.google.com/drive/folders/1q_g4ecZssQGD29cFIjaSki6LbbbslKsn) the ongoing documents for application:
+    - Project Description 
+    - Industrial PhD Template Application
+    - Industrial PhD Grade Calculation

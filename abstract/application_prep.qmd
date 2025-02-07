@@ -92,17 +92,19 @@ _These are some initial names given their field of expertise, their track reccor
 **Candidates**:
 Only some the shorlisted below have expressed to have capacity/interes for enroling into this. The search is still ongoing.
 
-  - [Dr. Anne Bach Nielsen](https://researchprofiles.ku.dk/en/persons/anne-bach-nielsen)
-  - [Dr. Jens Kandt, CASA - UCL](https://profiles.ucl.ac.uk/37018)  
-  - [Dr. Robert Hughes, The London School of Hygiene & Tropical Medicine](https://www.lshtm.ac.uk/aboutus/people/hughes.robert)  
-  - [Dr. Mark J Nieuwenhuijsen](https://www.isglobal.org/en/our-team/-/profiles/18505)
-  - [Dr. Ann Forsyth, GSD - Harvard](https://annforsyth.net/)
+  - [Dr. Anne Bach Nielsen](https://researchprofiles.ku.dk/en/persons/anne-bach-nielsen) - University of Copenhagen
+  - [Dr. Jens Kandt](https://profiles.ucl.ac.uk/37018) - CASA; UCL
+  - [Dr. Robert Hughes](https://www.lshtm.ac.uk/aboutus/people/hughes.robert) -  The London School of Hygiene & Tropical Medicine
+  - [Dr. Mark J Nieuwenhuijsen](https://www.isglobal.org/en/our-team/-/profiles/18505) - ISGlobal
+  - [Dr. Ann Forsyth](https://annforsyth.net/) - GSD; Harvard
 
 
 **Institutions**:  
 Because of their related research. 
 
   - University of Copenhagen : Department of Public Health Sciences - School of Global Health 
+  - Erasmus University Rotterdam :Rotterdam Global Health Initiative -> [Urban Health](https://www.eur.nl/en/research/research-groups-initiatives/rotterdam-global-health-initiative/research/urban-health)
+  - [Polibienestar : Universidad de Valencia](https://www.polibienestar.org/?lang=en)
   - [ISGlobal Barcelona](https://www.isglobal.org/en/)
   - The Alan Turing Institute:  
   See one of their 3 'Grand Challenges': [Transformation on Health](https://www.turing.ac.uk/research/transformation-health)

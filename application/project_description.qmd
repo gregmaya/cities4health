@@ -1,0 +1,22 @@
+---
+title : Project Description
+---
+
+:::{.callout title= 'Brief' collapse="true"}
+
+### Project description 
+#### Hypotheses / research questions
+Please describe which research hypotheses and/or questions you will examine, and why precisely these hypotheses / questions are relevant to examine, particularly with regard to fulfilling the project objectives.
+
+#### Project execution
+Comprehensive and detailed description of how the project is to be carried out, including (but not necessarily in this order):
+  
+- which specific research methods that are to be used,
+- how data will be acquired and treated,
+- where the project is to be carried out specifically, 
+- what other activities are to be carried out, 
+- how the project is organised and how roles are allocated between the participants: Which activities will the Industrial PhD candidate carry out and with what kind of support from which project parties, and which activities are to be carried out by others for the candidate?
+
+The overall objective of this section is to clarify that the project has a sufficiently high research quality and is possible to carry out in practical terms.
+
+:::
