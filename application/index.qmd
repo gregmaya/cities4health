@@ -2,15 +2,20 @@
 title : Application
 ---
 
-# Completed steps
-
-- [x] Sign up to a [e-grant](https://www.e-grant.dk/)
-    - [x] Started an application (to familiarize with the system)
-
-
-
 # Key Docs
 - In [this Drive](https://drive.google.com/drive/folders/1q_g4ecZssQGD29cFIjaSki6LbbbslKsn) the ongoing documents for application:
-    - Project Description 
-    - Industrial PhD Template Application
-    - Industrial PhD Grade Calculation
+1. [ ] Thematisation : Health Research 
+1. [ ] Signatures
+1. [ ] [Project Description](project_description.qmd) & [State of the Art](state_of_the_art.qmd) : see WIPs
+1. [ ] CV Greg Maya
+1. [ ] Bachelor grades + Graduation Class
+1. [ ] Master grades + Graduation Class - (early search: UCL does not give class rankings)
+1. [ ] Grade calculations
+1. [ ] CV Company Supervisor
+1. [ ] CV Company co-supervisor (if any)
+1. [ ] CV University Supervisor
+1. [ ] CV University co-Supervisor (if any)
+
+#### Also in DRIVE FOR REFERENCE    
+* Industrial PhD Template Application
+* Industrial PhD Grade Calculation

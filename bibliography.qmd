@@ -17,7 +17,7 @@ bibliography:
 nocite: |
   @*
 ---
-::: {.callout-important}
+::: {.callout-note}
 _The formating of this page is in constan change to incorporate new, more robust literature._
 :::
 

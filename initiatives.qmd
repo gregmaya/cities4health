@@ -23,10 +23,10 @@ The following is a conceptual breakdown of frameworks, policies and initiatives 
 ### **European Commission and Horizon 2020 Projects**
 - [**Urban Health Cluster (UHC)**](https://www.urban-health.eu)  
 - [**European Urban Health Indicators (EURO-URHIS)**](https://cordis.europa.eu/project/id/223711/reporting)
+- [**Copernicus Health Hub**](https://health.hub.copernicus.eu/)
 
 ### **European Urban Agenda**
 - [**European Urban Agenda**](https://ec.europa.eu/futurium/en/urban-agenda)
-
 ---
 
 ## **National and City-Level**
