@@ -1,0 +1,24 @@
+---
+title : Theme selection
+sidebar: application
+---
+
+:::{.callout title= 'Brief' collapse="true"}
+
+Key to the projects that may be funded, is that they contribute to the green transition and that the expectations of these contributions can be made explicit in the applications.
+
+Due to the following reasons, our project lies with in the scope of the chosen focus area:
+
+_(max 1000characters)_
+
+:::
+
+### Life Science, Health, and Welfare Technology
+
+Urban environments play a crucial role in shaping health outcomes, particularly in addressing non-communicable diseases (NCDs). This research positions urban planning as a proactive health intervention, capable of reducing healthcare burdens and enhancing overall quality of life.
+
+Despite strong evidence linking urban design and public health, current planning frameworks often neglect these considerations. This research aims to bridge that gap by systematically integrating health outcomes into EU urban policy frameworks and translating them into actionable spatial decisions. It will explore methodologies for embedding health impact assessments (HIAs) into planning regulations and quantifying the economic advantages of health-centric urban design.
+
+The study seeks to provide decision-support tools and strategic insights for city authorities and industry stakeholders. Aligning planning with public health objectives should contribute to creating more livable, resilient, and equitable cities.
+
+> _Character count: 999_

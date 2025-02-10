@@ -6,6 +6,15 @@ website:
   title: "Research Proposal"
   search: false
   back-to-top-navigation: true 
+  sidebar: 
+    - id: application
+      style: "docked"
+      contents: 
+        - href: application/index.qmd
+        - href: application/thematization.qmd
+        - href: application/project_description.qmd
+        - href: application/state_of_the_art.qmd
+  
   navbar:
     left:
       - href: abstract/application_prep.qmd

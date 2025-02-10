@@ -1,5 +1,6 @@
 ---
 title : Project Description
+sidebar : application
 ---
 
 :::{.callout title= 'Brief' collapse="true"}

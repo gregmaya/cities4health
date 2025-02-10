@@ -1,15 +1,16 @@
 ---
 title : Application
+sidebar: application
 ---
 
 # Key Docs
 - In [this Drive](https://drive.google.com/drive/folders/1q_g4ecZssQGD29cFIjaSki6LbbbslKsn) the ongoing documents for application:
-1. [ ] Thematisation : Health Research 
-1. [ ] Signatures
+1. [x] [Thematisation](thematization.qmd) : "Life Science, Health, and Welfare Technology"
+1. [ ] Signatures PDF
 1. [ ] [Project Description](project_description.qmd) & [State of the Art](state_of_the_art.qmd) : see WIPs
 1. [ ] CV Greg Maya
-1. [ ] Bachelor grades + Graduation Class
-1. [ ] Master grades + Graduation Class - (early search: UCL does not give class rankings)
+1. [x] Bachelor grades + Graduation Class (pending)
+1. [x] Master grades + Graduation Class - (UCL: doesn't provide) 
 1. [ ] Grade calculations
 1. [ ] CV Company Supervisor
 1. [ ] CV Company co-supervisor (if any)
