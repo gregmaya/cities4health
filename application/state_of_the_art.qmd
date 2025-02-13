@@ -15,30 +15,43 @@ This section must describe where the research field is right now and is the refe
 :::
 
 # Outline GMP
-- present the intersection of the field
-    - brief sumary on history ("how far has the research advanced")
-    - the different tangents : epydemiology, NCDs, mental health
-    - the current integration of public health into urban policy.
-        - how one part of it now sits under the broader umbrella of sustainable development goals (SDGs) and the global health agenda. -> Adapttion policy
-        - how Europe is making it implementable SOAPs (= oportunity)
-            - identify sectir's vulnerabilities
-            - set measurable targets
-            - Detail hard (infrastructure) and soft (institutional and behavioural) measures that can be implemented at a city level.
+- Present the intersection of the field
+    - Brief summary on history ("how far has the research advanced")
+    - The different tangents: **NCDs**, epidemiology, mental health
+    - The current integration of public health into urban policy.
+        - How one part of it now sits under the broader umbrella of sustainable development goals (SDGs) and the global health agenda. -> Adaptation policy
+        - How Europe is making it implementable through Sectorial Adaptation Plans - SOAPS (= opportunity)
+            - Identify sector's vulnerabilities
+            - Set measurable targets
+            - Detail hard (infrastructure) and soft (institutional and behavioral) measures that can be implemented at a city level.
         
-- ("barriers")Current challenges/
-    - Knowledge transfers
-    - The economic benefits (ROI) from individual plans
-    - The methodological excecution (what do we measure and how) 
+- ("barriers") Current challenges
+    - Policy Implementation
+        - Knowledge transfers (KT)
+        - The methodological execution (what do we measure and how)
+    - The Economic/Business benefits -> Budget shifts !?
+        - Potenial ROI from individual plans. 
+        - The opportunity cost calculation of business as usual.
+    - Data resolution gap.
+        -  Urban determinants of health and health reports/outcomes
+        - Health Impact Assesments (HIA): an few tools but no concensus.
     
-- ("openings") The emergence of new methodologies
-    - System Science (system dynamics modeling)
-        - Complex Adaptive Models
-    - Network Analysis
-    - agent-based modelling
+- ("openings") 
+    - The emergence of new methodologies
+        - System Science (system dynamics modeling)
+            - Complex Adaptive Models
+        - Network Analysis
+        - Agent-based modeling 
+    - EU Policy market for development of SOAPS
+        - eg. Ireland: Health 2019-2024. 
+        - Too high level and vague to put in practice.
+
     
 
 
 ____
+
+```{=comment}
 
 # Outline ChatGPT
 
@@ -82,4 +95,4 @@ Conclusion
 
 Summarize the state-of-the-art in integrating health outcomes into urban planning through SOAPS and adaptive systems models, noting their promise for future research and practical impact in European cities.
 
-
+```

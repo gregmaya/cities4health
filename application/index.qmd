@@ -3,17 +3,17 @@ title : Application
 sidebar: application
 ---
 
-# Key Docs
+# index
 - In [this Drive](https://drive.google.com/drive/folders/1q_g4ecZssQGD29cFIjaSki6LbbbslKsn) the ongoing documents for application:
 1. [x] [Thematisation](thematization.qmd) : "Life Science, Health, and Welfare Technology"
 1. [ ] Signatures PDF
 1. [ ] [Project Description](project_description.qmd) & [State of the Art](state_of_the_art.qmd) : see WIPs
-1. [ ] CV Greg Maya
+1. [x] CV Greg Maya (needs tweaking in INTRO)
 1. [x] Bachelor grades + Graduation Class (pending)
 1. [x] Master grades + Graduation Class - (UCL: doesn't provide) 
-1. [ ] Grade calculations
+1. [x] [Grade calculations](https://docs.google.com/spreadsheets/d/17appLARUOxJwdE7ya99CMpQIKkS8UKGmDIjAyqZFdiY/edit?gid=856919908#gid=856919908) (conversion to DN scale pending)
 1. [ ] CV Company Supervisor
-1. [ ] CV Company co-supervisor (if any)
+1. [ ] CV Company co-supervisor (Marta Rofin - Healthy Cities)
 1. [ ] CV University Supervisor
 1. [ ] CV University co-Supervisor (if any)
 
