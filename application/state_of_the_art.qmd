@@ -20,7 +20,7 @@ This section must describe where the research field is right now and is the refe
     - The different tangents: **NCDs**, epidemiology, mental health
     - The current integration of public health into urban policy.
         - How one part of it now sits under the broader umbrella of sustainable development goals (SDGs) and the global health agenda. -> Adaptation policy
-        - How Europe is making it implementable through Sectorial Adaptation Plans - SOAPS (= opportunity)
+        - How Europe is making it implementable through Sectorial Adaptation Plans - SAPS (= opportunity)
             - Identify sector's vulnerabilities
             - Set measurable targets
             - Detail hard (infrastructure) and soft (institutional and behavioral) measures that can be implemented at a city level.
@@ -42,7 +42,7 @@ This section must describe where the research field is right now and is the refe
             - Complex Adaptive Models
         - Network Analysis
         - Agent-based modeling 
-    - EU Policy market for development of SOAPS
+    - EU Policy market for development of SAPS
         - eg. Ireland: Health 2019-2024. 
         - Too high level and vague to put in practice.
 
@@ -56,7 +56,7 @@ ____
 # Outline ChatGPT
 
 Title:
-State-of-the-Art in Health-Driven Urban Adaptation in Europe: Integrating System Science, Complex Adaptive Models, and Sectoral Adaptation Plans (SOAPS)
+State-of-the-Art in Health-Driven Urban Adaptation in Europe: Integrating System Science, Complex Adaptive Models, and Sectoral Adaptation Plans (SAPS)
 
 1. Introduction & Context
 

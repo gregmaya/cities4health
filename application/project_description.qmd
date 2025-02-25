@@ -21,3 +21,62 @@ Comprehensive and detailed description of how the project is to be carried out, 
 The overall objective of this section is to clarify that the project has a sufficiently high research quality and is possible to carry out in practical terms.
 
 :::
+
+## Hypotheses / Research Questions
+
+This research seeks to explore how urban planning can be leveraged as a proactive intervention to improve public health outcomes. Specifically, the study will address the following key research questions (in hierarchical order):
+
+> **Can urban planning strategies mitigate the impact of non-communicable diseases (NCDs) through behavioural and environmental changes?**
+
+**How can Health Impact Assessments (HIAs) be systematically integrated into EU urban policy frameworks to guide planning decisions?**
+
+- How can decision-support tools be designed to assist policymakers in aligning urban planning with public health objectives?
+- Can we create a framework for accelerating the implementation of  Health specific Sectorial Adaptation Plan (SAP) across European cities ?
+
+**What are the quantifiable economic advantages of prioritizing health-centric urban design?**
+
+- What is the return on investment (ROI) for municipalities that oversee budgets both in healthcare and urban planning?
+- What are the opportunity costs associated with urban planning projects that fail to incorporate targeted health outcomes?
+
+**What are the urban determinants of Health that affect most possitively and negativelly NCDs in European cities?**
+
+- What role do spatial accessibility and inequality play in determining health outcomes ?
+
+These questions address simultaneously market opportunities and knowledge gaps in three specific dimension: policy, economic, and causality. They directly contribute to the development of more livable, resilient, and equitable cities, aligning with the European Commission's objectives outlined in the Urban Agenda for the EU.[<mark> Source </mark>]
+
+## Project Execution
+
+### Research Methods
+The project will employ a mixed-methods approach, integrating both qualitative and quantitative methodologies:
+
+#### Spatial Analysis & GIS: 
+Utilizing advanced geospatial analysis to map urban health inequalities and spatial accessibilities. This includes assessing proximity to health-supportive infrastructure such as green spaces, walkability indexes, active transport networks, and healthcare facilities, but also the dregrees to which active travel is built into public infrastructure.. The analysis will employ Geographic Information Systems (GIS) to visualize disparities, identify underserved areas, and inform equitable urban planning interventions. The aim would be to create pipelines of replicable analysis to then move into spatial data science.
+
+#### Spatial Data Science: 
+Deploying advanced machine learning models and generative AI to bridge the existing data gaps that obscure urban determinants of health. This involves leveraging big data analytics, remote sensing data, and urban informatics to uncover complex patterns and relationships between urban environments and health outcomes. This approach aims to provide data-driven insights for evidence-based policy-making and urban health interventions.
+
+#### Systems Dynamics Modeling: 
+This approach helps understand how different urban planning decisions affect public health and livability over time. It looks at how changes in one area (like transportation) can impact other areas (like air quality or physical activity). By mapping these cause-and-effect relationships, we can see potential unintended consequences and long-term effects of policies. It also helps prioritize actions that will have the biggest and fastest positive impact on public health and urban living.
+
+#### Economic Analysis: 
+Conducting comprehensive cost-benefit analyses to evaluate the financial implications and economic value of urban planning interventions that prioritise public health. This will center on assessing  direct economic benefits, such as reduced healthcare costs, but also highlight potential inderect benefits, such as enhanced property values. Additionally, the analysis will explore potential cost savings from preventive health measures and improved urban livability.
+
+#### Stakeholder Engagement & Surveys: 
+Engaging with a diverse group of stakeholders, including policymakers, urban planners, public health officials, community leaders, and industry partners, to gather comprehensive insights. This approach will identify challenges, opportunities, and key drivers for integrating health considerations into urban planning. Surveys and workshops will be designed to capture diverse perspectives and promote co-creation of health-centric urban policies.
+
+#### Comparative Case Studies: 
+Conducting an in-depth examination of European cities known for their health-oriented urban policies. This involves comparing policy frameworks, implementation strategies from , and health outcomes to identify best practices and transferable lessons. The comparative analysis will provide evidence-based recommendations for other cities aiming to integrate health into urban planning frameworks.
+
+By integrating these methodologies, the project will create a comprehensive, multi-dimensional framework that can be customized into Health Impact Assessments (HIAs) tailored to the needs of various clients, whether in the public or private sectors. This flexible approach ensures that the HIAs are relevant, practical, and applicable across diverse urban contexts, supporting evidence-based decision-making and strategic planning.
+
+### Data Acquisition and Treatment
+_Details on how data will be acquired and treated._
+
+### Project Location
+Specific locations where the project will be carried out.
+
+### Activities
+Other activities to be carried out during the project.
+
+### Organization and Roles
+How the project is organized and roles allocated among participants, including the Industrial PhD candidate's activities and support.

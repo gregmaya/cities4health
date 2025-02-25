@@ -4,19 +4,24 @@ sidebar: application
 ---
 
 # index
-- In [this Drive](https://drive.google.com/drive/folders/1q_g4ecZssQGD29cFIjaSki6LbbbslKsn) the ongoing documents for application:
-1. [x] [Thematisation](thematization.qmd) : "Life Science, Health, and Welfare Technology"
-1. [ ] Signatures PDF
-1. [ ] [Project Description](project_description.qmd) & [State of the Art](state_of_the_art.qmd) : see WIPs
-1. [x] CV Greg Maya (needs tweaking in INTRO)
-1. [x] Bachelor grades + Graduation Class (pending)
-1. [x] Master grades + Graduation Class - (UCL: doesn't provide) 
-1. [x] [Grade calculations](https://docs.google.com/spreadsheets/d/17appLARUOxJwdE7ya99CMpQIKkS8UKGmDIjAyqZFdiY/edit?gid=856919908#gid=856919908) (conversion to DN scale pending)
-1. [ ] CV Company Supervisor
-1. [ ] CV Company co-supervisor (Marta Rofin - Healthy Cities)
-1. [ ] CV University Supervisor
-1. [ ] CV University co-Supervisor (if any)
+> In [this Drive](https://drive.google.com/drive/folders/1q_g4ecZssQGD29cFIjaSki6LbbbslKsn) the ongoing documents for application:
 
-#### Also in DRIVE FOR REFERENCE    
+- [x] 0. [Thematisation](thematization.qmd) : "Life Science, Health, and Welfare - Technology"  
+- [ ] 1. Signatures PDF  
+- [-] 2. [Project Description](project_description.qmd) & [State of the Art](state_of_the_art.qmd)
+- [x] 3. CV Greg Maya (needs tweaking in INTRO)
+- [x] 4. Bachelor grades + Graduation Class (pending)
+- [x] 5. Master grades + Graduation Class - (UCL: doesn't provide. Letter Added) 
+- [x] 6. [Grade calculations](https://docs.google.com/spreadsheets/d/- ppLARUOxJwdE7ya99CMpQIKkS8UKGmDIjAyqZFdiY/edit?gid=856919908#gid=856919908) Conversion - to DN scale pending.
+- [ ] 7. CV Company Supervisor
+- [ ] 8. CV Company co-supervisor (Marta Rofin - Healthy Cities)
+- [ ] 9. CV University Supervisor
+- [ ] 10. CV University co-Supervisor (if any)
+
+#### Also in DRIVE - For reference    
 * Industrial PhD Template Application
-* Industrial PhD Grade Calculation
+* Selection of personal projects to support Application: 
+    - <mark>Missing</mark> Letter introducing the contents.
+    - Athens 2024 + Report, 2024, 
+    - Bilbao Social Boosters 2024, 
+    - White Paper Healthy Cities, NFF + BUPA
