@@ -1,0 +1,259 @@
+---
+title: Urban Development & Health
+subtitle: "Industry PhD proposal for Innovation Fund"
+author: "Greg Maya"
+format: 
+  revealjs:
+    multiplex: true
+    footer: "© Copyright 2025 Greg Maya"
+    theme: ["pp.scss"]
+    slide-number: c/t
+    incremental: false
+    title-slide-attributes:
+      data-background-image: images/drone_city2.png
+      data-background-size: cover
+editor: visual
+mermaid: 
+  theme: neutral
+---
+
+## Partners
+
+:::::{.panel-tabset}
+### Researcher
+:::: {.columns}
+::: {.column width="70%"}
+**Greg Maya**  
+City Science Coordinator at the Norman Foster Institute (NFI),  
+Freelance data consultant for various NGOs 
+
+My focus lies in data-driven analysis of urban environments, particularly through **applied research in health and technology integration** in urban planning design and policy. Trained as an architect with a Summa Cum Laude degree and a MSC in Space Syntax,I have transitioned from traditional design to consulting on modeling complex systems within the built environment.
+:::
+
+::: {.column width="25%"}
+![](images/me.png)  
+[LinkedIn](https://www.linkedin.com/in/gregoriomaya/)  
+[Personal Web](https://gregmaya.github.io/personal_web/)  
+[E-Mail](mailto:gregoriomaya@gmail.com)
+
+:::
+
+:::: 
+
+### University Partner 
+
+:::: {.columns}
+::: {.column width="70%"}
+
+**Kobenhavns Universite**   
+Department of Public Health, Global Health Section 
+
+Focuses on interdisciplinary research and education in global health. Their work encompasses:
+
+- **Research**: The section conducts studies on a wide range of topics, including diabetes, double burden of disease and environmental health, amongst many others.
+- **Education**: They offer several educational programs, including: PhD programm on Public Health. 
+
+:::
+
+::: {.column width="25%"}
+![alt](images/uni_logo.jpg)
+[Website](https://publichealth.ku.dk/about-the-department/global/)
+:::
+
+:::: 
+
+:::::
+
+---
+
+## Context  {background-image="images/ped_level2.png"}
+
+::: {.fragment .fade-up}
+Urban environments play a crucial role in shaping health outcomes, particularly in addressing non-communicable diseases (NCDs). **This research is aimes at positioning urban planning as a proactive health intervention, capable of reducing healthcare burdens and enhancing overall quality of life.**
+:::
+::: {.fragment .fade-up}
+Despite strong evidence linking urban design and public health, current planning frameworks often neglect these considerations. **There is an opportunity to bridge that gap by systematically translating health outcomes into actionable spatial decisions and integrating them within the current policy frameworks**. It will explore methodologies for new design tools that orient urban and transport planners into health positive outcomes and quantifying the economic advantages of said approaches.
+:::
+::: {.fragment .fade-up}
+<mark>The study seeks to provide decision-support tools and strategic insights for city designers, authorities and other stakeholders.</mark> Aligning planning with public health objectives should contribute to creating more liveable, resilient, and equitable cities.
+:::
+
+
+
+## Problem Statement {background-image="images/ped_level2.png"}
+
+:::: {.columns}
+
+::: {.column width="48%"}
+::: {.incremental}
+- Non Communicable Deseases (NCDs) are responsible for +70% of deaths (WHO, 2024).
+- European cities getting older, hence, more prone to suffering from an increase in NCDs.
+- Urban health issues are linked to poor spatial planning, pollution, and sedentary lifestyles.
+- Lack of actionable indicators that could lead to design decisions with better health outcomes. 
+:::
+:::
+
+::: {.column width="48%"}
+::: {.incremental}
+- Inadequate integration of health considerations in urban planning practices and transport sectors.
+- Lack of awareness on the long-term economic costs of designs that do not incorporate a minimum standard for health outcomes. 
+- Failing to leverage the built environment as a preventative health opportunity. 
+::: 
+:::
+
+::::
+
+---
+
+## Opportunity {background="#282a36"}
+
+<br>
+
+<br>
+
+::: {.fragment .fade-up}
+### Capture the growing demand for healthier, sustainable urban environments acknoledged by the general public and reflected by policy.
+:::
+
+---
+
+## Solution Overview {background="#2a303c" .scrollable}
+
+### Introducing a data-driven urban planning model to enhance urban health outcomes.
+
+Starting with the most direct links from <mark>Urban Determinants</mark> to <mark>Health Outcomes</mark> (NCDs).
+
+<img src="images/urb_det.png" alt="Urban Determinants" style="width:100%; height:auto;">
+
+The model should have the potential to benefit from `easy wins` but also to devlop complexity and robustness over time.
+
+---
+
+## Research Objectives and Key Questions {background-image="images/ped_level2.png"}
+
+#### Objective
+### To explore the commercial viability of integrating health outcomes in urban planning.
+
+<br>
+
+#### Key Research Questions:
+
+<div style="text-align: center; font-weight: bold;">
+Can urban planning strategies mitigate the impact of non-communicable diseases (NCDs) through behavioural and environmental changes?
+</div>
+
+::: {.columns}
+::: {.column}
+::: incremental
+<div style="font-size: smaller;">
+- What are the urban determinants of Health that affect most positively and negatively NCDs in case study cities?
+- How can decision-support tools be designed to assist urban designers in aligning urban planning with public health objectives?
+</div>
+
+:::
+:::
+
+::: {.column}
+::: incremental
+
+<div style="font-size: smaller;">
+- What are the quantifiable economic advantages of prioritizing health-centric urban design?
+- What role do spatial accessibility and inequality play in determining health outcomes?
+</div>
+
+:::
+:::
+:::
+
+
+---
+
+
+## Commercial Opportunity {.scrollable}
+
+- Growing market demand for health-centric urban development.
+- Potential to expand the portfolio into health impact consulting and data-driven urban planning.
+- Strategic alignment with sustainable, smart city, transport and place-making projects.
+- City-wide models that could identify areas of particular interest for urban intervention on the basis of health inequalities.
+- **Revenue Streams:** urban analytics tools, models for active travel assessments that acknowledge health as additional outcomes. Future Health impact assessments (HIA)
+- **Industry Trend:** Increasing regulatory requirements for health implications as part of different departmental outcomes. "Health as a transversal lens to siloed planning thinking"
+
+### Potential for future commercial streams
+Integration of health impact assessments (HIA) into urban planning, active transport projects and/or 
+
+
+### Competitive Advantage and Differentiation
+
+- Leverage advanced data analytics and urban modeling for evidence-based planning with a purpose: HEALTH.
+- Integration of cross-sectoral knowledge (public health, urban planning, sustainability).
+- First-mover advantage in health-centric urban consulting.
+- Collaboration with leading academic institutions and access to cutting-edge research.
+
+---
+
+## Reference Case Study 1
+### Barcelona Superblock Model
+
+::: {.columns}
+::: {.column}
+<img src="images/barcelona_1.jpg" alt="Barcelona Superblock" style="width:90%; height:auto;">
+
+> Transformation of urban blocks to reduce car dependency, increase green spaces, and promote active transport.
+:::
+
+::: {.column}
+**Impact:**  
+
+- 667 preventable deaths annually from improved air quality, noise reduction, and increased physical activity.
+- Economic impact of €1.7 billion annually from health benefits.
+<br>
+
+**Relevance:** 
+
+Demonstrates the commercial and societal value of integrating health in urban design.
+
+:::
+::: 
+
+---
+
+## Reference Case Study 2
+### The Healthy Cities Generator
+
+:::: {.columns}
+::: {.column width=50%}
+
+<img src="images/hc_generator.gif" alt="Healthy City Generator - snapshot" style="width:90%; height:auto;">
+
+[Website](https://healthy-cities.com/healthy-cities-generator/)
+
+> Digital tool designed for urban planners, health professionals, and policymakers.
+:::
+
+::: {.column width=50%}
+Assesses health impacts of urban plans and visualizes effects on 30 health indicators.
+
+  - Physical, mental, and environmental health dimensions.
+  - <mark>Room to create more robust metrics.</mark>
+
+Developed in collaboration with EIT Urban Mobility and the University of Lisbon.
+
+- Recognized for practicality and innovation.
+  - _Won the Best Research Paper award at the Healthy City Design International Congress (2023)._
+:::
+:::: 
+
+---
+
+## Next Steps {background-image="images/drone_city2.png"}
+
+- Find internal unit to be the host of this research.
+  - Potentials
+    - **Transport** (Active Travel)
+    - **Environment and Health**
+    - **Urban Planning**
+- Tailor the proposal based on market knowledge
+
+- **Partnership Proposal:** Collaborate to develop a proposal which is commercially sound and forward-thinking into the future market needs and academic research 
+
+> A big part of this is already on its way!
