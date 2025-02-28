@@ -187,8 +187,6 @@ Can urban planning strategies mitigate the impact of non-communicable diseases (
 - City-wide models that could identify areas of particular interest for urban intervention on the basis of health inequalities.
 </div>
 
-<br>
-
 ::: {.fragment .fade-up}
 #### Possible Revenue Streams
 
