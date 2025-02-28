@@ -4,6 +4,7 @@ project:
 website:
   favicon: assets/favicon.png
   title: "Research Proposal"
+  google-analytics: G-4C6QQ0DV05 #my google tag
   search: false
   back-to-top-navigation: true 
   sidebar: 
@@ -17,6 +18,8 @@ website:
   
   navbar:
     left:
+      - text: "Slide Deck"
+        href: abstract/cities4health.qmd
       - href: abstract/application_prep.qmd
       - text: "References"
         menu: 

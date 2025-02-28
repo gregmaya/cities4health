@@ -1,6 +1,8 @@
 ---
 title: "Cities4Health"
 ---
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="a94a885c-5a6f-422e-baae-648dd4023407" type="text/javascript" async></script>
+
 :::: {.columns}
 
 ::: {.column}
