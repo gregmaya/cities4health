@@ -23,10 +23,13 @@ mermaid:
 :::: {.columns}
 ::: {.column width="70%"}
 **Greg Maya**  
-City Science Coordinator at the Norman Foster Institute (NFI),  
-Freelance data consultant for various NGOs 
 
-My focus lies in data-driven analysis of urban environments, particularly through **applied research in health and technology integration** in urban planning design and policy. Trained as an architect with a Summa Cum Laude degree and a MSC in Space Syntax,I have transitioned from traditional design to consulting on modeling complex systems within the built environment.
+> City Science Coordinator, Norman Foster Institute (NFI)
+> Freelance data consultant for various NGOs 
+
+<div style="font-size: smaller;">
+My focus lies in data-driven analysis of urban environments, particularly through applied research in health and technology integration in urban planning design and policy. Trained as an architect with a Summa Cum Laude degree and a MSC in Space Syntax,I have transitioned from traditional design to consulting on modeling complex systems within the built environment.</div>
+
 :::
 
 ::: {.column width="25%"}
@@ -44,13 +47,18 @@ My focus lies in data-driven analysis of urban environments, particularly throug
 :::: {.columns}
 ::: {.column width="70%"}
 
-**Kobenhavns Universite**   
-Department of Public Health, Global Health Section 
+**Kobenhavns Universite**
 
+> Department of Public Health  
+> Global Health Section 
+
+<div style="font-size: smaller;">
 Focuses on interdisciplinary research and education in global health. Their work encompasses:
 
 - **Research**: The section conducts studies on a wide range of topics, including diabetes, double burden of disease and environmental health, amongst many others.
 - **Education**: They offer several educational programs, including: PhD programm on Public Health. 
+</div>
+
 
 :::
 
@@ -118,9 +126,9 @@ Despite strong evidence linking urban design and public health, current planning
 
 ## Solution Overview {background="#2a303c" .scrollable}
 
-### Introducing a data-driven urban planning model to enhance urban health outcomes.
+#### Introducing a data-driven urban planning model to enhance urban health outcomes.
 
-Starting with the most direct links from <mark>Urban Determinants</mark> to <mark>Health Outcomes</mark> (NCDs).
+Uncovering the most direct links from <mark>Urban Determinants</mark> to <mark>Health Outcomes</mark> (NCDs).
 
 <img src="images/urb_det.png" alt="Urban Determinants" style="width:100%; height:auto;">
 
@@ -145,7 +153,7 @@ Can urban planning strategies mitigate the impact of non-communicable diseases (
 
 ::: {.columns}
 ::: {.column}
-::: {.incremental}
+::: {.fragment .fade-up}
 <div style="font-size: smaller;">
 - What are the urban determinants of Health that affect most positively and negatively NCDs in case study cities?
 - How can decision-support tools be designed to assist urban designers in aligning urban planning with public health objectives?
@@ -155,7 +163,7 @@ Can urban planning strategies mitigate the impact of non-communicable diseases (
 :::
 
 ::: {.column}
-::: {.incremental}
+::: {.fragment .fade-up}
 
 <div style="font-size: smaller;">
 - What are the quantifiable economic advantages of prioritizing health-centric urban design?
@@ -188,6 +196,10 @@ Can urban planning strategies mitigate the impact of non-communicable diseases (
 ::: {.column width="33%"}
 <mark>Urban analytics tools</mark>  
 Emphasis on implementability.
+
+<mark>New Market</mark>  
+for funded programs from health providers.
+
 :::
 
 ::: {.column width="33%"}
@@ -211,7 +223,7 @@ Spin-off from Environmental assessments (EIA).
 
 ::::: {.columns}
 ::: {.column}
-- Leverage advanced data analytics and urban modeling for evidence-based planning with a purpose: **Healh**.
+- Leverage advanced data analytics and urban modeling for evidence-based planning with a purpose: **Health**.
 
 <br>
 
@@ -239,10 +251,12 @@ Spin-off from Environmental assessments (EIA).
 ::: {.column}
 <img src="images/barcelona_1.jpg" alt="Barcelona Superblock"  caption="© Ajuntament de Barcelona" style="width:90%; height:auto;">
 
-> Transformation of urban blocks to reduce car dependency, increase green spaces, and promote active transport.
+> <div style="font-size: smaller;">Transformation of urban blocks to reduce car dependency, increase green spaces, and promote active transport.</div>
 :::
 
 ::: {.column}
+<div style="font-size: smaller;">
+
 **Impact:**  
 
 - **667 preventable deaths** annually from improved air quality, noise reduction, and increased physical activity.
@@ -252,7 +266,7 @@ Spin-off from Environmental assessments (EIA).
 **Relevance:** 
 
 Demonstrates the commercial and societal value of integrating health in urban design.
-
+</div>
 :::
 ::: 
 
@@ -268,10 +282,11 @@ Demonstrates the commercial and societal value of integrating health in urban de
 
 [Website](https://healthy-cities.com/healthy-cities-generator/)
 
-> Digital tool designed for urban planners, health professionals, and policymakers.
+> <div style="font-size: smaller;">Digital tool designed for urban planners, health professionals, and policymakers.</div>
 :::
 
 ::: {.column width=50%}
+<div style="font-size: smaller;">
 Assesses health impacts of urban plans and visualizes effects on 30 health indicators.
 
   - Physical, mental, and environmental health dimensions.
@@ -281,6 +296,7 @@ Developed in collaboration with EIT Urban Mobility and the University of Lisbon.
 
 - Recognized for practicality and innovation.
   - _Won the Best Research Paper award at the Healthy City Design International Congress (2023)._
+</div>
 :::
 :::: 
 
