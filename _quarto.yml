@@ -5,6 +5,7 @@ website:
   favicon: assets/favicon.png
   title: "Research Proposal"
   google-analytics: G-4C6QQ0DV05 #my google tag
+  cookie-consent: true
   search: false
   back-to-top-navigation: true 
   sidebar: 
@@ -47,3 +48,4 @@ format:
     theme: sandstone
     css: styles.css
     toc: true
+    include-in-header: gtm_code_head.html # for google analytics to work
