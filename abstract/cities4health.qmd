@@ -1,7 +1,6 @@
 ---
 title: Urban Development & Health
 subtitle: "Industry PhD proposal for Innovation Fund"
-author: "Greg Maya"
 format: 
   revealjs:
     multiplex: true
@@ -129,10 +128,12 @@ The model should have the potential to benefit from `easy wins` but also to devl
 
 ---
 
-## Research Objectives and Key Questions {background-image="images/ped_level2.png"}
+## Research Objectives & Key Questions {background-image="images/ped_level2.png"}
 
-#### Objective
-### To explore the commercial viability of integrating health outcomes in urban planning.
+#### Objective:
+<div style="text-align: center; font-weight: bold;">
+To explore the commercial viability of integrating health outcomes in urban planning.
+</div>
 
 <br>
 
@@ -144,7 +145,7 @@ Can urban planning strategies mitigate the impact of non-communicable diseases (
 
 ::: {.columns}
 ::: {.column}
-::: incremental
+::: {.incremental}
 <div style="font-size: smaller;">
 - What are the urban determinants of Health that affect most positively and negatively NCDs in case study cities?
 - How can decision-support tools be designed to assist urban designers in aligning urban planning with public health objectives?
@@ -154,7 +155,7 @@ Can urban planning strategies mitigate the impact of non-communicable diseases (
 :::
 
 ::: {.column}
-::: incremental
+::: {.incremental}
 
 <div style="font-size: smaller;">
 - What are the quantifiable economic advantages of prioritizing health-centric urban design?
@@ -166,37 +167,77 @@ Can urban planning strategies mitigate the impact of non-communicable diseases (
 :::
 
 
----
+
+## Commercial Opportunity {background-color="#2a303c"}
+
+> "Shift health from a mere co-benefit to a cross-cutting lens in urban planning."
 
 
-## Commercial Opportunity {.scrollable}
-
-- Growing market demand for health-centric urban development.
-- Potential to expand the portfolio into health impact consulting and data-driven urban planning.
+<div style="font-size: smaller;">
 - Strategic alignment with sustainable, smart city, transport and place-making projects.
+- Potential to expand the portfolio into health impact consulting and data-driven urban planning.
 - City-wide models that could identify areas of particular interest for urban intervention on the basis of health inequalities.
-- **Revenue Streams:** urban analytics tools, models for active travel assessments that acknowledge health as additional outcomes. Future Health impact assessments (HIA)
-- **Industry Trend:** Increasing regulatory requirements for health implications as part of different departmental outcomes. "Health as a transversal lens to siloed planning thinking"
+</div>
 
-### Potential for future commercial streams
-Integration of health impact assessments (HIA) into urban planning, active transport projects and/or 
+<br>
 
+::: {.fragment .fade-up}
+#### Possible Revenue Streams
 
-### Competitive Advantage and Differentiation
+::: {.columns}
+::: {.column width="33%"}
+<mark>Urban analytics tools</mark>  
+Emphasis on implementability.
+:::
 
-- Leverage advanced data analytics and urban modeling for evidence-based planning with a purpose: HEALTH.
-- Integration of cross-sectoral knowledge (public health, urban planning, sustainability).
-- First-mover advantage in health-centric urban consulting.
-- Collaboration with leading academic institutions and access to cutting-edge research.
+::: {.column width="33%"}
+<mark>Models for active travel assessments</mark>  
+Acknowledge health as additional outcomes.
+:::
+
+::: {.column width="33%"}
+<mark>Future implementations of Health impact assessments (HIA)</mark>   
+Spin-off from Environmental assessments (EIA).
+:::
+:::
+
+:::
 
 ---
 
-## Reference Case Study 1
+## Competitive Advantage & Differentiation {background-color="#f5eee6" }
+
+<br>
+
+::::: {.columns}
+::: {.column}
+- Leverage advanced data analytics and urban modeling for evidence-based planning with a purpose: **Healh**.
+
+<br>
+
+- Integration of cross-sectoral knowledge (public health, urban planning, sustainability).
+
+:::
+
+
+::: {.column}
+- First-mover advantage in health-centric urban consulting in current and potential new markets.
+
+<br>
+
+- Collaboration with leading academic institutions and access to cutting-edge research.
+:::
+:::::
+
+
+---
+
+## Reference Case Study 1 {background-image="images/barcelona_1.jpg" background-opacity="40%"} 
 ### Barcelona Superblock Model
 
 ::: {.columns}
 ::: {.column}
-<img src="images/barcelona_1.jpg" alt="Barcelona Superblock" style="width:90%; height:auto;">
+<img src="images/barcelona_1.jpg" alt="Barcelona Superblock"  caption="© Ajuntament de Barcelona" style="width:90%; height:auto;">
 
 > Transformation of urban blocks to reduce car dependency, increase green spaces, and promote active transport.
 :::
@@ -204,8 +245,8 @@ Integration of health impact assessments (HIA) into urban planning, active trans
 ::: {.column}
 **Impact:**  
 
-- 667 preventable deaths annually from improved air quality, noise reduction, and increased physical activity.
-- Economic impact of €1.7 billion annually from health benefits.
+- **667 preventable deaths** annually from improved air quality, noise reduction, and increased physical activity.
+- Economic impact of **€1.7 billion** annually from health benefits.
 <br>
 
 **Relevance:** 
@@ -217,7 +258,7 @@ Demonstrates the commercial and societal value of integrating health in urban de
 
 ---
 
-## Reference Case Study 2
+## Reference Case Study 2 {background-color="#f5eee6"}
 ### The Healthy Cities Generator
 
 :::: {.columns}
@@ -234,7 +275,7 @@ Demonstrates the commercial and societal value of integrating health in urban de
 Assesses health impacts of urban plans and visualizes effects on 30 health indicators.
 
   - Physical, mental, and environmental health dimensions.
-  - <mark>Room to create more robust metrics.</mark>
+  - _<mark>Room to create more robust metrics.</mark>_
 
 Developed in collaboration with EIT Urban Mobility and the University of Lisbon.
 
@@ -245,15 +286,21 @@ Developed in collaboration with EIT Urban Mobility and the University of Lisbon.
 
 ---
 
-## Next Steps {background-image="images/drone_city2.png"}
+## Next Steps {background-image="images/drone_city2.png" background-opacity="30%"}
 
+::: {.fragment .fade-up}
 - Find internal unit to be the host of this research.
   - Potentials
     - **Transport** (Active Travel)
     - **Environment and Health**
     - **Urban Planning**
 - Tailor the proposal based on market knowledge
+::: 
 
-- **Partnership Proposal:** Collaborate to develop a proposal which is commercially sound and forward-thinking into the future market needs and academic research 
+<br>
+
+::: {.fragment .fade-up}
+- **Present Proposal:** (Aug 2025) Collaborate to develop a proposal which is commercially sound and forward-thinking into the future market needs and academic research 
 
 > A big part of this is already on its way!
+:::
