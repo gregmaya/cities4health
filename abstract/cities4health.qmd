@@ -166,7 +166,7 @@ Can urban planning strategies mitigate the impact of non-communicable diseases (
 :::
 :::
 
-
+---
 
 ## Commercial Opportunity {background-color="#2a303c"}
 
@@ -232,7 +232,7 @@ Spin-off from Environmental assessments (EIA).
 
 ---
 
-## Reference Case Study 1 {background-image="images/barcelona_1.jpg" background-opacity="40%"} 
+## Reference Case Study 1 {background-image="images/barcelona_1.jpg" background-opacity="40%" .scrollable} 
 ### Barcelona Superblock Model
 
 ::: {.columns}
@@ -258,7 +258,7 @@ Demonstrates the commercial and societal value of integrating health in urban de
 
 ---
 
-## Reference Case Study 2 {background-color="#f5eee6"}
+## Reference Case Study 2 {background-color="#f5eee6" .scrollable} 
 ### The Healthy Cities Generator
 
 :::: {.columns}
