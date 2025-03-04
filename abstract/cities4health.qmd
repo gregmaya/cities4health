@@ -4,7 +4,7 @@ subtitle: "Industry PhD proposal for Innovation Fund"
 format: 
   revealjs:
     multiplex: true
-    footer: "© Copyright 2025 Greg Maya"
+    footer: "© Copyright 2025 Greg Maya - [Back to site](https://gregmaya.github.io/cities4health/)"
     theme: ["pp.scss"]
     slide-number: c/t
     incremental: false

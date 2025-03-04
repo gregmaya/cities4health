@@ -48,4 +48,4 @@ format:
     theme: sandstone
     css: styles.css
     toc: true
-    include-in-header: gtm_code_head.html # for google analytics to work
+    include-in-header: gtm_code_head.html # for google analytics to work. Tag manager

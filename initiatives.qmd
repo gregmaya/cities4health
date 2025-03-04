@@ -24,6 +24,7 @@ The following is a conceptual breakdown of frameworks, policies and initiatives 
 - [**Urban Health Cluster (UHC)**](https://www.urban-health.eu)  
 - [**European Urban Health Indicators (EURO-URHIS)**](https://cordis.europa.eu/project/id/223711/reporting)
 - [**Copernicus Health Hub**](https://health.hub.copernicus.eu/)
+- [**European Health Data Space**](https://health.ec.europa.eu/ehealth-digital-health-and-care/european-health-data-space_en)
 
 ### **European Urban Agenda**
 - [**European Urban Agenda**](https://ec.europa.eu/futurium/en/urban-agenda)
