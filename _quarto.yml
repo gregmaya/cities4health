@@ -49,3 +49,4 @@ format:
     css: styles.css
     toc: true
     include-in-header: gtm_code_head.html # for google analytics to work. Tag manager
+    include-before-body: gtm_code_body.html # for google analytics to work. Tag manager
