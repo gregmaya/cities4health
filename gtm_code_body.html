@@ -1,4 +1,20 @@
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PT6WN99T"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+<!-- End Google Tag Manager (noscript) -->
+
+<script>
+  function updateConsent() {
+    gtag('consent', 'update', {
+      'ad_storage': 'granted',
+      'analytics_storage': 'granted'
+    });
+  }
+
+  // Wait for the cookie consent banner to be accepted
+  document.addEventListener("DOMContentLoaded", function() {
+    if (document.cookie.includes("cookie_consent_accepted=true")) {
+      updateConsent();
+    }
+  });
+</script>

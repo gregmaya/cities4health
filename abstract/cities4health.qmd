@@ -11,8 +11,8 @@ format:
     title-slide-attributes:
       data-background-image: images/drone_city2.png
       data-background-size: cover
-    include-in-header: gtm_code_head.html
-    include-before-body: gtm_code_body.html
+    include-in-header: ../gtm_code_head.html
+    include-before-body: ../gtm_code_body.html
 editor: visual
 mermaid: 
   theme: neutral
