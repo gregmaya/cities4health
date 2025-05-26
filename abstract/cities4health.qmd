@@ -178,7 +178,7 @@ The model should have the potential to benefit from *'easy wins'* but also to de
 ## Commercial Pipline {background-color="#2a303c"}
 
 ::: {.fragment .fade-up}
-<img src="images/commercial_opportunity.png" alt="Urban Determinants" style="max-width:100%; height:auto; display:block; margin-left:auto; margin-right:auto;"/>
+<img src="images/commercial_opportunity.png" alt="Urban Determinants" fig-align="center" style="max-  display:block; margin-left:auto; margin-right:auto;" width="90%"/>
 :::
 
 ------------------------------------------------------------------------
