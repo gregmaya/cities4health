@@ -1,31 +1,40 @@
 name: Quarto Publish
 
 on:
-    push:
-        branches:
-            - main
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
-    build-deploy:
-        runs-on: ubuntu-latest
-        permissions:
-            contents: write
-            pages: write
-            id-token: write
-        steps:
-            - name: Check out repository 
-              uses: actions/checkout@v4
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
 
-            - name: Set up Quarto
-              uses: quarto-dev/quarto-actions/setup@v2
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        # Optional: Retry setup in case of network failure
+        continue-on-error: true
 
-            - name: Render site
-              run: quarto render
-            
-            - name: Upload artifact
-              uses: actions/upload-pages-artifact@v3
-              with:
-                path: _site
-            
-            - name: Deploy GitHub Pages
-              uses: actions/deploy-pages@v4
+      - name: Install Quarto manually if setup fails
+        if: failure()
+        run: |
+          curl -LO https://quarto.org/download/latest/quarto-linux-amd64.deb
+          sudo dpkg -i quarto-linux-amd64.deb
+
+      - name: Render site
+        run: quarto render
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy GitHub Pages
+        uses: actions/deploy-pages@v4
