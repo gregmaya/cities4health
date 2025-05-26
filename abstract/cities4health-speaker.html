@@ -150,8 +150,47 @@
       margin-right: 0; 
     }
   </style>
+  <!-- Google Consent Mode -->
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){ dataLayer.push(arguments); }
+
+    // Set default consent to 'denied' until user interacts
+    gtag('consent', 'default', {
+      'ad_storage': 'denied',
+      'analytics_storage': 'granted',
+      'functionality_storage': 'granted',
+      'security_storage': 'granted'
+    });
+
+    // Load GTM
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
+    var f=d.getElementsByTagName(s)[0], j=d.createElement(s), dl=l!='dataLayer'?'&l='+l:''; j.async=true;
+    j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl; f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PT6WN99T');
+  </script>
+  <!-- End Google Tag Manager -->
 </head>
 <body class="quarto-light">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PT6WN99T" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<script>
+  function updateConsent() {
+    gtag('consent', 'update', {
+      'ad_storage': 'granted',
+      'analytics_storage': 'granted'
+    });
+  }
+
+  // Wait for the cookie consent banner to be accepted
+  document.addEventListener("DOMContentLoaded", function() {
+    if (document.cookie.includes("cookie_consent_accepted=true")) {
+      updateConsent();
+    }
+  });
+</script>
   <div class="reveal">
     <div class="slides">
 
@@ -210,10 +249,10 @@ Global Health Section</p>
 <section id="context" class="slide level2" data-background-image="images/ped_level2.png">
 <h2>Context</h2>
 <div class="fragment fade-up">
-<p>Urban environments play a crucial role in shaping health outcomes, particularly in addressing non-communicable diseases (NCDs). <strong>This research is aimes at positioning urban planning as a proactive health intervention, capable of reducing healthcare burdens and enhancing overall quality of life.</strong></p>
+<p>Urban environments play a crucial role in shaping health outcomes, particularly in addressing non-communicable diseases (NCDs). <strong>This research is aimed at positioning urban planning as a proactive health intervention, capable of reducing healthcare burdens and enhancing overall quality of life.</strong></p>
 </div>
 <div class="fragment fade-up">
-<p>Despite strong evidence linking urban design and public health, current planning frameworks often neglect these considerations. <strong>There is an opportunity to bridge that gap by systematically translating health outcomes into actionable spatial decisions and integrating them within the current policy frameworks</strong>. It will explore methodologies for new design tools that orient urban and transport planners into health positive outcomes and quantifying the economic advantages of said approaches.</p>
+<p>Despite strong evidence linking urban design and public health, current planning frameworks often neglect these considerations. <strong>There is an opportunity to bridge that gap by systematically translating health outcomes into actionable spatial decisions and integrating them within the current policy and design frameworks</strong>. It will explore methodologies for new design tools that orient urban and transport planners into health positive outcomes and quantifying the economic advantages of said approaches.</p>
 </div>
 <div class="fragment fade-up">
 <p><mark>The study seeks to provide decision-support tools and strategic insights for city designers, authorities and other stakeholders.</mark> Aligning planning with public health objectives should contribute to creating more liveable, resilient, and equitable cities.</p>
@@ -258,6 +297,76 @@ Uncovering the most direct links from <mark style="background-color: #a5a7ad; co
 <p>The model should have the potential to benefit from <em>‘easy wins’</em> but also to develop complexity and robustness over time.</p>
 </div>
 </section>
+<section id="commercial-opportunity" class="slide level2" data-background-color="#2a303c">
+<h2>Commercial Opportunity</h2>
+<blockquote>
+<p>“Shift health from a mere co-benefit to a cross-cutting lens in urban planning.”</p>
+</blockquote>
+<p><br></p>
+<div class="columns">
+<div class="column" style="width:33%;">
+<div class="fragment fade-up">
+<p><mark>Enhance Existing Service Lines</mark></p>
+<div style="font-size: smaller;">
+<ul>
+<li>Transport &amp; Active Travel</li>
+<li>Urban Planning &amp; Masterplanning</li>
+<li>Environmental Impact Assessments (EIAs) &amp; Sustainability</li>
+</ul>
+</div>
+</div>
+</div><div class="column" style="width:33%;">
+<div class="fragment fade-up">
+<p><mark>Develop New, Specialized Service Offerings</mark></p>
+<div style="font-size: smaller;">
+<ul>
+<li>Strategic Health-Urban Advisory</li>
+<li>Urban Health Analytics &amp; Diagnostics</li>
+<li>Decision-Support Tools &amp; Platforms</li>
+</ul>
+</div>
+</div>
+</div><div class="column" style="width:33%;">
+<div class="fragment fade-up">
+<p><mark> Unlock New Markets &amp; Funding Streams</mark></p>
+<div style="font-size: smaller;">
+<ul>
+<li>Public Health Sector Collaboration</li>
+<li>ESG &amp; Impact Investing</li>
+<li>Proactive Project Identification</li>
+</ul>
+</div>
+</div>
+</div></div>
+</section>
+<section id="commercial-pipline" class="slide level2" data-background-color="#2a303c">
+<h2>Commercial Pipline</h2>
+<div class="fragment fade-up">
+<p><img src="images/commercial_opportunity.png" alt="Urban Determinants" style="max-width:100%; height:auto; display:block; margin-left:auto; margin-right:auto;"></p>
+</div>
+</section>
+<section id="competitive-advantage-differentiation" class="slide level2" data-background-color="#f5eee6">
+<h2>Competitive Advantage &amp; Differentiation</h2>
+<p><br></p>
+<div class="columns">
+<div class="column">
+<ul>
+<li>Leverage advanced data analytics and urban modeling for evidence-based planning with a purpose: <strong>Health</strong>.</li>
+</ul>
+<p><br></p>
+<ul>
+<li>Integration of cross-sectoral knowledge (public health, urban planning, sustainability).</li>
+</ul>
+</div><div class="column">
+<ul>
+<li>First-mover advantage in health-centric urban consulting in current and potential new markets.</li>
+</ul>
+<p><br></p>
+<ul>
+<li>Collaboration with leading academic institutions and access to cutting-edge research.</li>
+</ul>
+</div></div>
+</section>
 <section id="research-objectives-key-questions" class="slide level2" data-background-image="images/ped_level2.png">
 <h2>Research Objectives &amp; Key Questions</h2>
 <h4 id="objective">Objective:</h4>
@@ -288,57 +397,6 @@ Uncovering the most direct links from <mark style="background-color: #a5a7ad; co
 </ul>
 </div>
 </div>
-</div></div>
-</section>
-<section id="commercial-opportunity" class="slide level2" data-background-color="#2a303c">
-<h2>Commercial Opportunity</h2>
-<blockquote>
-<p>“Shift health from a mere co-benefit to a cross-cutting lens in urban planning.”</p>
-</blockquote>
-<div style="font-size: smaller;">
-<ul>
-<li>Strategic alignment with sustainable, smart city, transport and place-making projects.</li>
-<li>Potential to expand the portfolio into health impact consulting and data-driven urban planning.</li>
-<li>City-wide models that could identify areas of particular interest for urban intervention on the basis of health inequalities.</li>
-</ul>
-</div>
-<div class="fragment fade-up">
-<h4 id="possible-revenue-streams">Possible Revenue Streams</h4>
-<div class="columns">
-<div class="column" style="width:33%;">
-<p><mark>Urban analytics tools</mark><br>
-Emphasis on implementability.</p>
-<p><mark>New Market</mark><br>
-for funded programs from health providers.</p>
-</div><div class="column" style="width:33%;">
-<p><mark>Models for active travel assessments</mark><br>
-Acknowledge health as additional outcomes.</p>
-</div><div class="column" style="width:33%;">
-<p><mark>Future implementations of Health impact assessments (HIA)</mark><br>
-Spin-off from Environmental assessments (EIA).</p>
-</div></div>
-</div>
-</section>
-<section id="competitive-advantage-differentiation" class="slide level2" data-background-color="#f5eee6">
-<h2>Competitive Advantage &amp; Differentiation</h2>
-<p><br></p>
-<div class="columns">
-<div class="column">
-<ul>
-<li>Leverage advanced data analytics and urban modeling for evidence-based planning with a purpose: <strong>Health</strong>.</li>
-</ul>
-<p><br></p>
-<ul>
-<li>Integration of cross-sectoral knowledge (public health, urban planning, sustainability).</li>
-</ul>
-</div><div class="column">
-<ul>
-<li>First-mover advantage in health-centric urban consulting in current and potential new markets.</li>
-</ul>
-<p><br></p>
-<ul>
-<li>Collaboration with leading academic institutions and access to cutting-edge research.</li>
-</ul>
 </div></div>
 </section>
 <section id="reference-case-study-1" class="slide level2 scrollable" data-background-image="images/barcelona_1.jpg" data-background-opacity="40%">

@@ -78,10 +78,10 @@ Focuses on interdisciplinary research and education in global health. Their work
 ## Context  {background-image="images/ped_level2.png"}
 
 ::: {.fragment .fade-up}
-Urban environments play a crucial role in shaping health outcomes, particularly in addressing non-communicable diseases (NCDs). **This research is aimes at positioning urban planning as a proactive health intervention, capable of reducing healthcare burdens and enhancing overall quality of life.**
+Urban environments play a crucial role in shaping health outcomes, particularly in addressing non-communicable diseases (NCDs). **This research is aimed at positioning urban planning as a proactive health intervention, capable of reducing healthcare burdens and enhancing overall quality of life.**
 :::
 ::: {.fragment .fade-up}
-Despite strong evidence linking urban design and public health, current planning frameworks often neglect these considerations. **There is an opportunity to bridge that gap by systematically translating health outcomes into actionable spatial decisions and integrating them within the current policy frameworks**. It will explore methodologies for new design tools that orient urban and transport planners into health positive outcomes and quantifying the economic advantages of said approaches.
+Despite strong evidence linking urban design and public health, current planning frameworks often neglect these considerations. **There is an opportunity to bridge that gap by systematically translating health outcomes into actionable spatial decisions and integrating them within the current policy  and design frameworks**. It will explore methodologies for new design tools that orient urban and transport planners into health positive outcomes and quantifying the economic advantages of said approaches.
 :::
 ::: {.fragment .fade-up}
 <mark>The study seeks to provide decision-support tools and strategic insights for city designers, authorities and other stakeholders.</mark> Aligning planning with public health objectives should contribute to creating more liveable, resilient, and equitable cities.
@@ -136,6 +136,96 @@ Uncovering the most direct links from <mark style="background-color: #a5a7ad; co
 
 The model should have the potential to benefit from _'easy wins'_ but also to develop complexity and robustness over time.
 :::
+
+---
+
+## Commercial Opportunity {background-color="#2a303c"}
+
+> "Shift health from a mere co-benefit to a cross-cutting lens in urban planning."
+
+<br>
+
+
+::: {.columns}
+::: {.column width="33%"}
+::: {.fragment .fade-up}
+
+<mark>Enhance Existing Service Lines</mark>  
+
+<div style="font-size: smaller;">
+- Transport & Active Travel
+- Urban Planning & Masterplanning
+- Environmental Impact Assessments (EIAs) & Sustainability
+</div>
+
+:::
+:::
+
+::: {.column width="33%"}
+::: {.fragment .fade-up}
+
+<mark>Develop New, Specialized Service Offerings</mark>  
+
+<div style="font-size: smaller;">
+- Strategic Health-Urban Advisory
+- Urban Health Analytics & Diagnostics
+- Decision-Support Tools & Platforms
+</div>
+
+:::
+:::
+
+::: {.column width="33%"}
+::: {.fragment .fade-up}
+<mark> Unlock New Markets & Funding Streams</mark>   
+
+<div style="font-size: smaller;">
+- Public Health Sector Collaboration
+- ESG & Impact Investing
+- Proactive Project Identification
+</div>
+
+:::
+:::
+:::
+
+
+---
+
+## Commercial Pipline {background-color="#2a303c"}
+
+::: {.fragment .fade-up}
+
+<img src="images/commercial_opportunity.png" alt="Urban Determinants" style="max-width:100%; height:auto; display:block; margin-left:auto; margin-right:auto;">
+
+:::
+
+---
+
+## Competitive Advantage & Differentiation {background-color="#f5eee6" }
+
+<br>
+
+::::: {.columns}
+::: {.column}
+- Leverage advanced data analytics and urban modeling for evidence-based planning with a purpose: **Health**.
+
+<br>
+
+- Integration of cross-sectoral knowledge (public health, urban planning, sustainability).
+
+:::
+
+
+::: {.column}
+- First-mover advantage in health-centric urban consulting in current and potential new markets.
+
+<br>
+
+- Collaboration with leading academic institutions and access to cutting-edge research.
+:::
+:::::
+
 ---
 
 ## Research Objectives & Key Questions {background-image="images/ped_level2.png"}
@@ -175,71 +265,6 @@ Can urban planning strategies mitigate the impact of non-communicable diseases (
 :::
 :::
 :::
-
----
-
-## Commercial Opportunity {background-color="#2a303c"}
-
-> "Shift health from a mere co-benefit to a cross-cutting lens in urban planning."
-
-
-<div style="font-size: smaller;">
-- Strategic alignment with sustainable, smart city, transport and place-making projects.
-- Potential to expand the portfolio into health impact consulting and data-driven urban planning.
-- City-wide models that could identify areas of particular interest for urban intervention on the basis of health inequalities.
-</div>
-
-::: {.fragment .fade-up}
-#### Possible Revenue Streams
-
-::: {.columns}
-::: {.column width="33%"}
-<mark>Urban analytics tools</mark>  
-Emphasis on implementability.
-
-<mark>New Market</mark>  
-for funded programs from health providers.
-
-:::
-
-::: {.column width="33%"}
-<mark>Models for active travel assessments</mark>  
-Acknowledge health as additional outcomes.
-:::
-
-::: {.column width="33%"}
-<mark>Future implementations of Health impact assessments (HIA)</mark>   
-Spin-off from Environmental assessments (EIA).
-:::
-:::
-
-:::
-
----
-
-## Competitive Advantage & Differentiation {background-color="#f5eee6" }
-
-<br>
-
-::::: {.columns}
-::: {.column}
-- Leverage advanced data analytics and urban modeling for evidence-based planning with a purpose: **Health**.
-
-<br>
-
-- Integration of cross-sectoral knowledge (public health, urban planning, sustainability).
-
-:::
-
-
-::: {.column}
-- First-mover advantage in health-centric urban consulting in current and potential new markets.
-
-<br>
-
-- Collaboration with leading academic institutions and access to cutting-edge research.
-:::
-:::::
 
 
 ---
