@@ -122,7 +122,7 @@ Introducing a data-driven urban planning model to enhance urban health outcomes.
 Uncovering the most direct links from <mark style="background-color: #a5a7ad; color: white;">Urban Determinants</mark> to <mark style="background-color: #d5a6bd; color: white;">Health Outcomes</mark> (NCDs).
 
 ::: {.fragment .fade-up}
-<img src="images/urb_det4.png" alt="Urban Determinants" style="width:100%; height:auto;"/>
+<img src="images/urb_det5.png" alt="Urban Determinants" height="auto" width="100%"/>
 
 The model should have the potential to benefit from *'easy wins'* but also to develop complexity and robustness over time.
 :::
