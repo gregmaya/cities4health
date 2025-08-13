@@ -212,7 +212,7 @@ The model should have the potential to benefit from *'easy wins'* but also to de
 #### Objective:
 
 ::: {style="text-align: center; font-weight: bold;"}
-To explore the commercial viability of integrating health outcomes in urban planning.
+To explore the commercial viability of integrating health outcomes in urban/transport planning.
 :::
 
 <br>
@@ -242,6 +242,159 @@ Can urban planning strategies mitigate the impact of non-communicable diseases (
 ::::
 :::::
 :::::::::
+
+------------------------------------------------------------------------
+
+## Where is the Market ? {background="#282a369e"}
+
+<br>
+
+::: {.fragment .fade-up}
+- **RAMBOLL**'s Neighbourhood Futures framework + SMART Mobility
+:::
+::: {.fragment .fade-up}
+- **ARUP**'s Health+Mobility Integration
+:::
+::: {.fragment .fade-up}
+- **AECOM**'s Air Quality and Health Focus
+:::
+::: {.fragment .fade-up}
+- **WSP**'s Built Environment Health Strategy
+:::
+::: {.fragment .fade-up}
+- **Jacobs**' Health Infrastructure Integration
+:::
+
+------------------------------------------------------------------------
+
+## RAMBOLL's SMART Mobility + partnership with Impact on Urban Health
+
+:::::: columns
+:::: {.column width="60%"}
+<mark>Already positioned to integrate health into Transport strategies</mark>
+
+- **Partnership with Impact on Urban Health** to launch the [Neighbourhood Futures framework](https://www.ramboll.com/en-gb/news/ramboll-and-impact-on-urban-health-launch-the-neighbourhood-futures-framework)
+
+- **Smart Mobility expertise** recognizes health challenges from car-centric planning:
+  - Congestion & noise
+  - Poor air quality  
+  - Safety risks
+
+::: {style="font-size: smaller;"}
+Ramboll is ahead of competitors in quantifying how transport decisions impact community health.
+:::
+::::
+
+:::: {.column width="40%"}
+<img src="images/ramboll.png" style="width:90%; height:auto;"/>
+
+::::
+::::::
+
+> Demonstrates strong foundation for expanding health-focused urban planning services.
+
+
+------------------------------------------------------------------------
+
+## ARUP's Health+Mobility Integration
+
+:::::: columns
+:::: {.column width="60%"}
+<mark>Sophisticated frameworks for integrating health considerations into transport infrastructure</mark>. 
+
+- **Liverpool, Knowledge Quarter, UK** – Developed a walkable innovation district with active travel infrastructure linking education, health, and research institutions to promote healthy urban living.
+
+- **Baton Rouge, Louisiana, US** – Introduced a health-focused mobility plan to improve walking and cycling access in underserved neighbourhoods, reducing transport-related health inequities.
+
+::: {style="font-size: smaller;"}
+ARUP's protocol provides frameworks for using local data to understand health and mobility issues, guiding infrastructure designs that support community health goals.
+:::
+::::
+
+:::: {.column width="40%"}
+<img src="images/arup_designprotocol.png" style="width:90%; height:auto;"/>
+
+::::
+::::::
+
+> Main focus : air pollution, traffic accidents, and climate change. 
+
+------------------------------------------------------------------------
+
+## AECOM's Air Quality and Health Focus
+
+:::::: columns
+:::: {.column width="60%"}
+<mark>Collaborative approach between transport and air quality teams.</mark> 
+
+- Beyond conventional traffic flow indicators toward wider considerations of health and wellbeing. 
+
+::: {style="font-size: smaller;"}
+AECOM's integrated teams deliver "pragmatic and sustainable solutions that are protective of human health and safety", providing direct focus on real-world health outcomes for policy measures.
+:::
+::::
+
+:::: {.column width="40%"}
+<img src="images/aecom.png" style="width:90%; height:auto;"/>
+
+::::
+::::::
+
+> source: [website link](https://aecom.com/without-limits/article/transport-and-air-quality-supporting-resilient-communities-through-collaboration/)
+
+------------------------------------------------------------------------
+
+## WSP's Built Environment Health Strategy
+
+:::::: columns
+:::: {.column width="60%"}
+
+<br>
+Their research shows that creating green buffer zones between communities and transportation corridors can improve air quality for residents, supporting respiratory health. 
+
+<br>
+
+- [Ramona Gardens, L.A. ](https://www.wsp.com/en-gl/projects/ramona-gardens-anti-pollution-green-buffer)
+
+
+::::
+
+:::: {.column width="40%"}
+
+<img src="images/wsp.png" style="width:90%; height:auto;"/>
+<img src="images/ramonagardens.png" style="width:90%; height:auto;"/>
+
+::::
+::::::
+
+> Emphasizes human-centered design as an investment in economic growth, recognizing that healthier populations translate into more robust workforces.
+
+
+------------------------------------------------------------------------
+
+## Jacobs' Health Infrastructure Integration
+
+:::::: columns
+:::: {.column width="60%"}
+<br>
+Jacobs is delivering major infrastructure projects with health co-benefits.
+
+- BusConnects Dublin. National Transport Authority (NTA)
+
+::: {style="font-size: smaller;"}
+Enhance "connectivity and community life" while providing greater certainty for accessing healthcare and education. 
+:::
+::::
+
+:::: {.column width="40%"}
+<img src="images/jacobs.png" style="width:90%; height:auto;"/>
+
+> Source: [website](https://infra.global/jacobs-to-manage-major-infrastructure-project-for-irelands-national-transport-authority/)
+
+::::
+::::::
+
+> Their approach recognizes that transport infrastructure directly impacts access to essential health services.
 
 ------------------------------------------------------------------------
 
@@ -306,6 +459,34 @@ Developed in collaboration with EIT Urban Mobility and the University of Lisbon.
 
 ------------------------------------------------------------------------
 
+## Major Contract Opportunities {.scrollable}
+
+::: {.fragment .fade-up}
+### **Health Impact Assessment (HIA) Requirements**
+
+::: {style="font-size: smaller;"}
+The European market is showing strong demand for **HIA** services in transport planning. Recent tenders demonstrate this trend:
+
+- UK's **Clyde Metro Multi-Disciplinary Consultancy Framework** (£20M) specifically includes "Health Impact Assessment" and "Impact Assessments" as dedicated service lots[^9][^10]
+- **NHS Sustainable Transport \& Infrastructure Framework** (£500M) awarded multiple consultancies for sustainable transport solutions that support health outcomes[^11]
+- Transport for London's **Transport Planning \& Impact Monitoring Framework** includes specific lots for "Health, Equalities and Socio economic assessments"[^12]
+:::
+:::
+
+::: {.fragment .fade-up}
+### **International Development Opportunities**
+
+::: {style="font-size: smaller;"}
+Major development projects increasingly require health impact considerations:
+
+- **Georgian Sustainable Urban Mobility Project** (2022) specifically sought consultants to align transport modes with climate protection goals and contribute to "better living conditions for the population"[^15]
+- **Peru's Urban Passenger Transportation Service** (2025) improvement projects include health and environmental considerations as core requirements[^16]
+:::
+:::
+
+
+------------------------------------------------------------------------
+
 ## Next Steps {background-image="images/drone_city2.png" background-opacity="30%"}
 
 ::: {.fragment .fade-up}
@@ -324,3 +505,206 @@ Developed in collaboration with EIT Urban Mobility and the University of Lisbon.
 
 > A big part of this is already on its way!
 :::
+
+
+
+[^1]: https://www.ramboll.com/en-gb/news/ramboll-and-impact-on-urban-health-launch-the-neighbourhood-futures-framework
+
+[^2]: https://c.ramboll.com/smartmobility
+
+[^3]: https://www.scribd.com/document/685235890/5-Arup-Health-Mobility
+
+[^4]: https://aecom.com/without-limits/article/transport-and-air-quality-supporting-resilient-communities-through-collaboration/
+
+[^5]: https://www.wsp.com/-/media/insights/global/documents/wsp---evolving-the-built-environment-for-health-and-wellbeing.pdf
+
+[^6]: https://www.mottmac.com/en/insights/community-oriented-transit/
+
+[^7]: https://www.mottmac.com/en/markets-and-services/transport/urban-mobility/
+
+[^8]: https://infra.global/jacobs-to-manage-major-infrastructure-project-for-irelands-national-transport-authority/
+
+[^9]: https://www.find-tender.service.gov.uk/Notice/006251-2024?origin=SearchResults\&p=1
+
+[^10]: https://www.find-tender.service.gov.uk/Notice/006251-2024/PDF
+
+[^11]: https://www.find-tender.service.gov.uk/Notice/001159-2024/PDF
+
+[^12]: https://www.find-tender.service.gov.uk/Notice/035407-2025
+
+[^13]: https://www.isglobal.org/-/european-burden-of-disease-project
+
+[^14]: https://www.ukcric.com/news/healthy-low-carbon-transport-hub-established-to-explore-the-health-benefits-of-the-transition-to-net-zero/
+
+[^15]: https://www.gtai.de/en/trade/georgia/tenders/consulting-services-sustainable-urban-mobility-project--617564
+
+[^16]: https://www.gtai.de/en/trade/peru/tenders/consulting-definitive-study-of-the-public-investment-project-improvement-of-the-urban-passenger-transportation-service-province-of-trujillo--1818420
+
+[^17]: https://www.numberanalytics.com/blog/healthy-transportation-engineering-strategies
+
+[^18]: https://iris.who.int/bitstream/handle/10665/268963/PMC2572479.pdf?sequence=1\&isAllowed=y
+
+[^19]: https://www.apha.org/getcontentasset/62a5bae0-966f-47a8-b6c9-9b910b6fd107/7ca0dc9d-611d-46e2-9fd3-26a4c03ddcbb/apha_health_impact_assessments_fact_sheet_jan2011.pdf?language=en
+
+[^20]: https://c.ramboll.com/webinar-become-and-intern-or-student-assistant-0
+
+[^21]: https://www.ramboll.com/transport/roads
+
+[^22]: https://wiki.unece.org/download/attachments/109352183/Ramboll SmartMobility_ITF.pdf?version=1\&modificationDate=1611676675162\&api=v2
+
+[^23]: https://contactout.com/Pia-Jakobsgaard-Iversen-6883504
+
+[^24]: https://www.ramboll.com/insights/resilient-societies-and-liveability/light-rail-of-the-future-european-lessons-in-urban-mobility-transformation
+
+[^25]: https://www.ramboll.com/transport
+
+[^26]: https://www.ramboll.com/contact-us/people/be7e6698-282b-4c4b-957a-d834cf299a8a
+
+[^27]: https://www.ramboll.com/transport/rail
+
+[^28]: https://www.verdensmålsportalen.dk/cases/andre-cases/ramboll/
+
+[^29]: https://www.ramboll.com/en-us/contact-us/people/be7e6698-282b-4c4b-957a-d834cf299a8a
+
+[^30]: https://www.ramboll.com/resilient-societies-and-liveability
+
+[^31]: https://nvfnorden.org/working-groups/urban-transport-and-transport-planning/
+
+[^32]: https://dk.linkedin.com/in/pia-jakobsgaard-iversen-505a1835
+
+[^33]: https://www.ramboll.com/projects
+
+[^34]: https://c.ramboll.com/cycling
+
+[^35]: https://www.linkedin.com/posts/pia-jakobsgaard-iversen-505a1835_im-excited-that-we-are-now-executing-activity-7286709665843834881-V7Q9
+
+[^36]: https://www.ramboll.com/transport/urban-and-transport-planning
+
+[^37]: https://irfofficial.org/2025/01/09/ramboll-and-oris-partner-for-seamless-carbon-lifecycle-analysis/
+
+[^38]: https://www.port.io/blog/engineering-metrics-to-follow-in-2024
+
+[^39]: https://www.alberta.ca/system/files/custom_downloaded_images/tec-ecg-highway-bridge-and-water-projects-volume-1.pdf
+
+[^40]: https://www.arup.com/globalassets/downloads/insights/tomorrows-public-transport-system.pdf
+
+[^41]: https://www.transport.gov.scot/publication/business-and-regulatory-impact-assessment-cycling-framework-and-delivery-plan-for-active-travel/introduction/
+
+[^42]: https://www.hexaconsulting.co.uk
+
+[^43]: https://www.arup.com/globalassets/downloads/insights/equitable-future-mobility-ensuring-a-just-transition-to-net-zero-transport.pdf
+
+[^44]: https://www.transport.gov.scot/publication/social-and-equality-impact-assessment-seqia-nts-delivery-plan/1-introduction/
+
+[^45]: https://linearb.io/blog/engineering-metrics-8-that-will-elevate-your-team
+
+[^46]: https://www.youtube.com/watch?v=r1DLh5AUgzA
+
+[^47]: https://www.carmarthenshire.gov.wales/media/mckkidir/transport-assessment.pdf
+
+[^48]: https://www.cortex.io/post/the-pocket-guide-to-engineering-metrics
+
+[^49]: https://www.ecf.com/en/news/arup-we-believe-that-inclusive-connectivity-and-mobility-are-essential-for-cities-to-thrive/
+
+[^50]: https://www.aecom.com/es/wp-content/uploads/2019/03/Environment-Spain_Brochure_02.2019-online.pdf
+
+[^51]: https://www.sciencedirect.com/science/article/pii/S2214140521000153
+
+[^52]: https://www.arup.com/globalassets/downloads/insights/equitable-public-transport-in-a-hybrid-working-world.pdf
+
+[^53]: https://aecom.com/uk/services/transport-planning/
+
+[^54]: https://docs.waydev.co/docs/monitor-engineering-health-over-time
+
+[^55]: https://www.arup.com/globalassets/downloads/insights/future-of-urban-logistics.pdf
+
+[^56]: https://www.eeaa.gov.eg/Uploads/Notification/Files/20250429104721661.pdf
+
+[^57]: https://www.wsp.com/en-om/services/vision-zero
+
+[^58]: https://www.mottmac.com/en/insights/how-the-highways-and-transport-sector-is-doubling-down-on-climate-action/
+
+[^59]: https://www.onlinetenders.co.za/tenders/south-africa/engineering-consultants?page=3
+
+[^60]: https://www.mottmac.com/en/insights/the-potential-of-bus-rapid-transit/
+
+[^61]: https://www.ectransport.gov.za/documents/2025-2026/activetenders/0003.pdf
+
+[^62]: https://www.youtube.com/watch?v=zM4vi0iT73w
+
+[^63]: https://www.find-tender.service.gov.uk/Notice/020775-2025?origin=SearchResults\&p=2
+
+[^64]: https://www.wsp.com/en-gl/projects/making-health-a-priority-for-uk-communities
+
+[^65]: https://www.wsp.com/en-gl/services/active-transportation
+
+[^66]: https://www.mottmac.com/en/markets-and-services/buildings/healthcare/
+
+[^67]: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-tenders
+
+[^68]: https://www.wsp.com/en-ca/insights/ca-what-if-we-can-build-better-health-outcomes
+
+[^69]: https://www.mottmac.com/en/markets-and-services/engineering/transport-planning/
+
+[^70]: https://www.gtai.de/en/trade/georgia/tenders/consulting-services-project-implementation-accompanying-measures-sustainable-urban-mobility-project--834782
+
+[^71]: https://www.wsp.com/en-gl/hubs/transport-and-infrastructure
+
+[^72]: https://www.find-tender.service.gov.uk/Notice/039645-2025
+
+[^73]: https://www.worcestershire.gov.uk/sites/default/files/2022-09/ltp4_health_impact_assessment.pdf
+
+[^74]: https://www.find-tender.service.gov.uk/Notice/006116-2025
+
+[^75]: https://www.itf-oecd.org/external-consultant-support-development-guidelines-sustainable-urban-mobility-plans
+
+[^76]: https://www.oregon.gov/oha/PH/PROVIDERPARTNERRESOURCES/HEALTHINALLPOLICIES/Documents/transportation-hias.pdf
+
+[^77]: https://tenderimpulse.com/popular-tenders/bio-metric-tenders
+
+[^78]: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals
+
+[^79]: https://cegworld.com/our-sectors/urban-development
+
+[^80]: https://www.sciencedirect.com/science/article/abs/pii/S0195925517301130
+
+[^81]: https://www.isglobal.org/en/urban-planning
+
+[^82]: https://www.ntc.gov.au/tender-opportunities
+
+[^83]: https://www.worldbank.org/en/programs/leaders-in-urban-transport-planning-program
+
+[^84]: https://www.scotphn.net/wp-content/uploads/2016/02/03686_NHSHIAGuideFinal1.pdf
+
+[^85]: https://www.suffolk.gov.uk/business/tenders-and-supplying-us/current-tenders
+
+[^86]: https://www.bcg.com/industries/urban-planning/overview
+
+[^87]: https://sv.linkedin.com/company/larsen-\&-toubro-limited
+
+[^88]: https://www.slideshare.net/slideshow/jacobs-health-capability-statement/127571595
+
+[^89]: https://ltmetro.com/wp-content/uploads/2025/01/Press-Release-LT-COVID-19-30.03.2020-1.pdf
+
+[^90]: https://environment.leeds.ac.uk/faculty/news/article/5914/exploring-the-health-benefits-of-net-zero-transport
+
+[^91]: https://www.jacobs.com/what-we-do/transportation-planning-solutions
+
+[^92]: https://en.wikipedia.org/wiki/Larsen_\&_Toubro
+
+[^93]: https://www.numberanalytics.com/blog/public-health-in-transportation-engineering
+
+[^94]: https://www.uakron.edu/engineering/co-op/career-fairs/docs/JacobsSp20.pdf
+
+[^95]: https://annualreview.larsentoubro.com/ltts.html
+
+[^96]: https://www.paconsulting.com/newsroom/pa-consulting-and-jacobs-to-help-the-copenhagen-metro-become-an-even-more-sustainable-connected-urban-transport-system-9-november-2023
+
+[^97]: https://www.larsentoubro.com
+
+[^98]: https://www.keenfinity-group.com/us/en/news/product-news/jacobs-tests-iva-pro-traffic/
+
+[^99]: https://www.lntecc.com
+
+[^100]: https://www.kittelson.com/ideas/incorporating-health-into-transportation-projects-6-practical-principles-for-success/
+
