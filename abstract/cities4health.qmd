@@ -484,6 +484,59 @@ Major development projects increasingly require health impact considerations:
 :::
 :::
 
+------------------------------------------------------------------------
+
+## Strategic Implementation Framework
+
+<br>
+
+::: {.fragment .fade-up}
+### **Building Internal Capabilities**
+
+Establish a dedicated **Health Outcomes Research Unit** within the transport division, similar to successful models at ARUP and WSP. This unit would:
+
+- Develop proprietary health impact assessment methodologies for transport projects
+- Create quantitative tools linking transport interventions to health outcomes
+- Build partnerships with public health institutions and research organizations
+- Train existing transport planners in health impact evaluation techniques
+:::
+
+------------------------------------------------------------------------
+
+## Market Entry Strategy Timeline
+
+- **Phase 1: Capability Development** (6-12 months)
+- **Phase 2: Market Positioning** (12-18 months)
+- **Phase 3: Market Leadership** (18-36 months)
+
+```{mermaid}
+gantt
+    dateFormat  YYYY-MM-DD
+    axisFormat  %Y Q%q
+
+    section Phase 1
+    Partner with health research institution - KU    :p1, 2026-01-01, 3y
+    Pilot health impact assessments                :p2, 2026-03-01, 195d
+    Develop case studies                           :p3, 2026-06-15, 120d
+    Create first marketing materials               :p4, 2026-10-01, 90d
+
+    section Phase 2
+    Bid on tenders with health focus                :p5, 2027-01-01, 500d
+    Offer health co-benefit analysis                :p6, 2027-03-01, 120d
+    Publish research                                :p7, after p6, 90d
+    Speak at conferences                            :p8, 2027-06-01, 60d
+
+    section Phase 3
+    Develop proprietary software tools              :p9, 2027-07-01, 2y
+    Offer training courses                          :p10, 2027-09-01, 180d
+    Lead consortium bids                            :p11, 2028-01-01, 180d
+
+    section Future
+    European Health Space - release                 :milestone, p13, 2029-01-01, 10d
+    Next gen. tools and oportunities                 :p14, after p13, 180d
+
+```
+
 
 ------------------------------------------------------------------------
 
