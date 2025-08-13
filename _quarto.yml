@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: _site  # Make sure this is correctly set
 
 website:
   favicon: assets/favicon.png
@@ -48,8 +49,8 @@ format:
     theme: sandstone
     css: styles.css
     toc: true
-    include-in-header: gtm_code_head.html # for google analytics to work. Tag manager
-    include-before-body: gtm_code_body.html # for google analytics to work. Tag manager
+    include-in-header: gtm_code_head.html
+    include-before-body: gtm_code_body.html
 
   revealjs:
     mermaid: 
