@@ -480,8 +480,6 @@ The European market is showing strong demand for **HIA** services in transport p
 ### **International Development Opportunities**
 
 ::: {style="font-size: smaller;"}
-Major development projects increasingly require health impact considerations:
-
 - **Georgian Sustainable Urban Mobility Project** (2022) specifically sought consultants to align transport modes with climate protection goals and contribute to "better living conditions for the population". [link](https://www.gtai.de/en/trade/georgia/tenders/consulting-services-sustainable-urban-mobility-project--617564)
 
 - **Peru's Urban Passenger Transportation Service** (2025) improvement projects include health and environmental considerations as core requirements. [link](https://www.gtai.de/en/trade/peru/tenders/consulting-definitive-study-of-the-public-investment-project-improvement-of-the-urban-passenger-transportation-service-province-of-trujillo--1818420)
@@ -490,27 +488,28 @@ Major development projects increasingly require health impact considerations:
 
 
 
-
 ------------------------------------------------------------------------
 
-## Strategic Implementation Framework
+## Strategic Implementation Framework {background-image="images/drone_city2.png" background-opacity="30%"}
 
 <br>
 
 ::: {.fragment .fade-up}
 ### **Building Internal Capabilities**
 
-Establish a dedicated **Health Outcomes Research Unit** within the transport division, similar to successful models at ARUP and WSP. This unit would:
+> Establish a dedicated **Health Outcomes Research Unit** within the transport division, similar to successful models at ARUP and WSP. 
 
-- Develop proprietary health impact assessment methodologies for transport projects
-- Create quantitative tools linking transport interventions to health outcomes
-- Build partnerships with public health institutions and research organizations
-- Train existing transport planners in health impact evaluation techniques
+This unit would:
+
+- <mark>Develop proprietary health impact assessment</mark> methodologies for transport projects
+- <mark>Create quantitative tools</mark> linking transport interventions to health outcomes  
+- <mark>Build partnerships</mark> with public health institutions and research organizations
+- <mark>Train existing transport planners</mark> in health impact evaluation techniques
 :::
 
 ------------------------------------------------------------------------
 
-## Market Entry Strategy Timeline
+## Market Entry Strategy Timeline {background-image="images/drone_city2.png" background-opacity="30%"}
 
 - **Phase 1: Capability Development** (6-12 months)
 - **Phase 2: Market Positioning** (12-18 months)

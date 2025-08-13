@@ -6,7 +6,7 @@ website:
   favicon: assets/favicon.png
   title: "Research Proposal"
   google-analytics: G-4C6QQ0DV05 #my google tag
-  cookie-consent: true
+  cookie-consent: false
   search: false
   back-to-top-navigation: true 
   sidebar: 
@@ -52,6 +52,3 @@ format:
     include-in-header: gtm_code_head.html
     include-before-body: gtm_code_body.html
 
-  revealjs:
-    mermaid: 
-      theme: forest
