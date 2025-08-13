@@ -3,6 +3,19 @@ title : Application
 sidebar: application
 ---
 
+
+# Urban Development & Health
+
+Industry PhD proposal for Innovation Fund Denmark.
+
+## Quick Access
+
+- **[Presentation Slides](abstract/cities4health.qmd)** - Main slide deck
+- **[Application Details](abstract/application_prep.qmd)** - Detailed proposal
+- **[References](bibliography.qmd)** - Bibliography and sources
+
+---
+
 # index
 > In [this Drive](https://drive.google.com/drive/folders/1q_g4ecZssQGD29cFIjaSki6LbbbslKsn) the ongoing documents for application:
 

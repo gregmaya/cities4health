@@ -28,6 +28,12 @@ jobs:
           curl -LO https://quarto.org/download/latest/quarto-linux-amd64.deb
           sudo dpkg -i quarto-linux-amd64.deb
 
+      - name: Clean and prepare
+        run: |
+          rm -rf _site/
+          rm -f *.html
+          mkdir -p _site
+
       - name: Render site
         run: quarto render
 
