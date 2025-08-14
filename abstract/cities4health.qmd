@@ -250,19 +250,23 @@ Can urban planning strategies mitigate the impact of non-communicable diseases (
 <br>
 
 ::: {.fragment .fade-up}
-- **RAMBOLL**'s Neighbourhood Futures framework + SMART Mobility
+-   **RAMBOLL**'s Neighbourhood Futures framework + SMART Mobility
 :::
+
 ::: {.fragment .fade-up}
-- **ARUP**'s Health+Mobility Integration
+-   **ARUP**'s Health+Mobility Integration
 :::
+
 ::: {.fragment .fade-up}
-- **AECOM**'s Air Quality and Health Focus
+-   **AECOM**'s Air Quality and Health Focus
 :::
+
 ::: {.fragment .fade-up}
-- **WSP**'s Built Environment Health Strategy
+-   **WSP**'s Built Environment Health Strategy
 :::
+
 ::: {.fragment .fade-up}
-- **Jacobs**' Health Infrastructure Integration
+-   **Jacobs**' Health Infrastructure Integration
 :::
 
 ------------------------------------------------------------------------
@@ -273,26 +277,25 @@ Can urban planning strategies mitigate the impact of non-communicable diseases (
 :::: {.column width="60%"}
 <mark>Already positioned to integrate health into Transport strategies</mark>
 
-- **Partnership with Impact on Urban Health** to launch the [Neighbourhood Futures framework](https://www.ramboll.com/en-gb/news/ramboll-and-impact-on-urban-health-launch-the-neighbourhood-futures-framework)
+-   **Partnership with Impact on Urban Health** to launch the [Neighbourhood Futures framework](https://www.ramboll.com/en-gb/news/ramboll-and-impact-on-urban-health-launch-the-neighbourhood-futures-framework)
 
-- **Smart Mobility expertise** recognizes health challenges from car-centric planning:
-  - Congestion & noise
-  - Poor air quality  
-  - Safety risks
+-   **Smart Mobility expertise** recognizes health challenges from car-centric planning:
+
+    -   Congestion & noise
+    -   Poor air quality\
+    -   Safety risks
 
 ::: {style="font-size: smaller;"}
 Ramboll is ahead of competitors in quantifying how transport decisions impact community health.
 :::
 ::::
 
-:::: {.column width="40%"}
+::: {.column width="40%"}
 <img src="images/ramboll.png" style="width:90%; height:auto;"/>
-
-::::
+:::
 ::::::
 
 > Demonstrates strong foundation for expanding health-focused urban planning services.
-
 
 ------------------------------------------------------------------------
 
@@ -300,24 +303,23 @@ Ramboll is ahead of competitors in quantifying how transport decisions impact co
 
 :::::: columns
 :::: {.column width="60%"}
-<mark>Sophisticated frameworks for integrating health considerations into transport infrastructure</mark>. 
+<mark>Sophisticated frameworks for integrating health considerations into transport infrastructure</mark>.
 
-- **Liverpool, Knowledge Quarter, UK** – Developed a walkable innovation district with active travel infrastructure linking education, health, and research institutions to promote healthy urban living.
+-   **Liverpool, Knowledge Quarter, UK** – Developed a walkable innovation district with active travel infrastructure linking education, health, and research institutions to promote healthy urban living.
 
-- **Baton Rouge, Louisiana, US** – Introduced a health-focused mobility plan to improve walking and cycling access in underserved neighbourhoods, reducing transport-related health inequities.
+-   **Baton Rouge, Louisiana, US** – Introduced a health-focused mobility plan to improve walking and cycling access in underserved neighbourhoods, reducing transport-related health inequities.
 
 ::: {style="font-size: smaller;"}
 ARUP's protocol provides frameworks for using local data to understand health and mobility issues, guiding infrastructure designs that support community health goals.
 :::
 ::::
 
-:::: {.column width="40%"}
+::: {.column width="40%"}
 <img src="images/arup_designprotocol.png" style="width:90%; height:auto;"/>
-
-::::
+:::
 ::::::
 
-> Main focus : air pollution, traffic accidents, and climate change. 
+> Main focus : air pollution, traffic accidents, and climate change.
 
 ------------------------------------------------------------------------
 
@@ -325,19 +327,18 @@ ARUP's protocol provides frameworks for using local data to understand health an
 
 :::::: columns
 :::: {.column width="60%"}
-<mark>Collaborative approach between transport and air quality teams.</mark> 
+<mark>Collaborative approach between transport and air quality teams.</mark>
 
-- Beyond conventional traffic flow indicators toward wider considerations of health and wellbeing. 
+-   Beyond conventional traffic flow indicators toward wider considerations of health and wellbeing.
 
 ::: {style="font-size: smaller;"}
 AECOM's integrated teams deliver "pragmatic and sustainable solutions that are protective of human health and safety", providing direct focus on real-world health outcomes for policy measures.
 :::
 ::::
 
-:::: {.column width="40%"}
+::: {.column width="40%"}
 <img src="images/aecom.png" style="width:90%; height:auto;"/>
-
-::::
+:::
 ::::::
 
 > source: [website link](https://aecom.com/without-limits/article/transport-and-air-quality-supporting-resilient-communities-through-collaboration/)
@@ -346,29 +347,21 @@ AECOM's integrated teams deliver "pragmatic and sustainable solutions that are p
 
 ## WSP's Built Environment Health Strategy
 
-:::::: columns
-:::: {.column width="60%"}
+::::: columns
+::: {.column width="60%"}
+<br> Their research shows that creating green buffer zones between communities and transportation corridors can improve air quality for residents, supporting respiratory health.
 
 <br>
-Their research shows that creating green buffer zones between communities and transportation corridors can improve air quality for residents, supporting respiratory health. 
 
-<br>
+-   [Ramona Gardens, L.A.](https://www.wsp.com/en-gl/projects/ramona-gardens-anti-pollution-green-buffer)
+:::
 
-- [Ramona Gardens, L.A. ](https://www.wsp.com/en-gl/projects/ramona-gardens-anti-pollution-green-buffer)
-
-
-::::
-
-:::: {.column width="40%"}
-
-<img src="images/wsp.png" style="width:90%; height:auto;"/>
-<img src="images/ramonagardens.png" style="width:90%; height:auto;"/>
-
-::::
-::::::
+::: {.column width="40%"}
+<img src="images/wsp.png" style="width:90%; height:auto;"/> <img src="images/ramonagardens.png" style="width:90%; height:auto;"/>
+:::
+:::::
 
 > Emphasizes human-centered design as an investment in economic growth, recognizing that healthier populations translate into more robust workforces.
-
 
 ------------------------------------------------------------------------
 
@@ -376,22 +369,20 @@ Their research shows that creating green buffer zones between communities and tr
 
 :::::: columns
 :::: {.column width="60%"}
-<br>
-Jacobs is delivering major infrastructure projects with health co-benefits.
+<br> Jacobs is delivering major infrastructure projects with health co-benefits.
 
-- BusConnects Dublin. National Transport Authority (NTA)
+-   BusConnects Dublin. National Transport Authority (NTA)
 
 ::: {style="font-size: smaller;"}
-Enhance "connectivity and community life" while providing greater certainty for accessing healthcare and education. 
+Enhance "connectivity and community life" while providing greater certainty for accessing healthcare and education.
 :::
 ::::
 
-:::: {.column width="40%"}
+::: {.column width="40%"}
 <img src="images/jacobs.png" style="width:90%; height:auto;"/>
 
 > Source: [website](https://infra.global/jacobs-to-manage-major-infrastructure-project-for-irelands-national-transport-authority/)
-
-::::
+:::
 ::::::
 
 > Their approach recognizes that transport infrastructure directly impacts access to essential health services.
@@ -461,32 +452,29 @@ Developed in collaboration with EIT Urban Mobility and the University of Lisbon.
 
 ## Major Contract Opportunities {.scrollable}
 
-::: {.fragment .fade-up}
+:::: {.fragment .fade-up}
 ### **Health Impact Assessment (HIA) Requirements**
 
 ::: {style="font-size: smaller;"}
 The European market is showing strong demand for **HIA** services in transport planning. Recent tenders demonstrate this trend:
 
-- UK's **Clyde Metro Multi-Disciplinary Consultancy Framework** (£20M) specifically includes "Health Impact Assessment" and "Impact Assessments" as dedicated service lots[link](https://www.find-tender.service.gov.uk/Notice/006251-2024?origin=SearchResults\&p=1) [PDF](https://www.find-tender.service.gov.uk/Notice/006251-2024/PDF)
+-   UK's **Clyde Metro Multi-Disciplinary Consultancy Framework** (£20M) specifically includes "Health Impact Assessment" and "Impact Assessments" as dedicated service lots[link](https://www.find-tender.service.gov.uk/Notice/006251-2024?origin=SearchResults&p=1) [PDF](https://www.find-tender.service.gov.uk/Notice/006251-2024/PDF)
 
-- **NHS Sustainable Transport \& Infrastructure Framework** (£500M) awarded multiple consultancies for sustainable transport solutions that support health outcomes [PDF](https://www.find-tender.service.gov.uk/Notice/001159-2024/PDF)
-- Transport for London's **Transport Planning \& Impact Monitoring Framework** includes specific lots for "Health, Equalities and Socio economic assessments" 
-[link](https://www.find-tender.service.gov.uk/Notice/035407-2025)
+-   **NHS Sustainable Transport & Infrastructure Framework** (£500M) awarded multiple consultancies for sustainable transport solutions that support health outcomes [PDF](https://www.find-tender.service.gov.uk/Notice/001159-2024/PDF)
 
+-   Transport for London's **Transport Planning & Impact Monitoring Framework** includes specific lots for "Health, Equalities and Socio economic assessments" [link](https://www.find-tender.service.gov.uk/Notice/035407-2025)
 :::
-:::
+::::
 
-::: {.fragment .fade-up}
+:::: {.fragment .fade-up}
 ### **International Development Opportunities**
 
 ::: {style="font-size: smaller;"}
-- **Georgian Sustainable Urban Mobility Project** (2022) specifically sought consultants to align transport modes with climate protection goals and contribute to "better living conditions for the population". [link](https://www.gtai.de/en/trade/georgia/tenders/consulting-services-sustainable-urban-mobility-project--617564)
+-   **Georgian Sustainable Urban Mobility Project** (2022) specifically sought consultants to align transport modes with climate protection goals and contribute to "better living conditions for the population". [link](https://www.gtai.de/en/trade/georgia/tenders/consulting-services-sustainable-urban-mobility-project--617564)
 
-- **Peru's Urban Passenger Transportation Service** (2025) improvement projects include health and environmental considerations as core requirements. [link](https://www.gtai.de/en/trade/peru/tenders/consulting-definitive-study-of-the-public-investment-project-improvement-of-the-urban-passenger-transportation-service-province-of-trujillo--1818420)
+-   **Peru's Urban Passenger Transportation Service** (2025) improvement projects include health and environmental considerations as core requirements. [link](https://www.gtai.de/en/trade/peru/tenders/consulting-definitive-study-of-the-public-investment-project-improvement-of-the-urban-passenger-transportation-service-province-of-trujillo--1818420)
 :::
-:::
-
-
+::::
 
 ------------------------------------------------------------------------
 
@@ -497,23 +485,23 @@ The European market is showing strong demand for **HIA** services in transport p
 ::: {.fragment .fade-up}
 ### **Building Internal Capabilities**
 
-> Establish a dedicated **Health Outcomes Research Unit** within the transport division, similar to successful models at ARUP and WSP. 
+> Establish a dedicated **Health Outcomes Research Unit** within the transport division, similar to successful models at ARUP and WSP.
 
 This unit would:
 
-- <mark>Develop proprietary health impact assessment</mark> methodologies for transport projects
-- <mark>Create quantitative tools</mark> linking transport interventions to health outcomes  
-- <mark>Build partnerships</mark> with public health institutions and research organizations
-- <mark>Train existing transport planners</mark> in health impact evaluation techniques
+-   <mark>Develop proprietary health impact assessment</mark> methodologies for transport projects
+-   <mark>Create quantitative tools</mark> linking transport interventions to health outcomes\
+-   <mark>Build partnerships</mark> with public health institutions and research organizations
+-   <mark>Train existing transport planners</mark> in health impact evaluation techniques
 :::
 
 ------------------------------------------------------------------------
 
 ## Market Entry Strategy Timeline {background-image="images/drone_city2.png" background-opacity="30%"}
 
-- **Phase 1: Capability Development** (6-12 months)
-- **Phase 2: Market Positioning** (12-18 months)
-- **Phase 3: Market Leadership** (18-36 months)
+-   **Phase 1: Capability Development** (6-12 months)
+-   **Phase 2: Market Positioning** (12-18 months)
+-   **Phase 3: Market Leadership** (18-36 months)
 
 ```{mermaid}
 gantt
@@ -542,7 +530,6 @@ gantt
     Next gen. tools and oportunities                 :p14, after p13, 180d
 
 ```
-
 
 ------------------------------------------------------------------------
 

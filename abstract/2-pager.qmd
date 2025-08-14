@@ -1,0 +1,107 @@
+---
+title: "Health‑Centric Transport Analytics "
+subtitle: "Industry PhD (Host: Ramboll Transport)"
+author: "Greg Maya - CV atttached"
+lang: en-GB
+format:
+  pdf:
+    papersize: a4
+    geometry: "margin=14mm"
+    toc: false
+    number-sections: false
+    include-in-header:
+      text: |
+        \usepackage{xcolor}
+        \pagecolor[HTML]{2A303C} % Set background color
+        \color{white}            % Set default text color
+        \usepackage{fancyhdr}
+        \pagestyle{fancy}
+        \fancyhf{}
+        \fancyfoot[C]{\vspace{-5mm}© Copyright 2025 Greg Maya - \href{https://gregmaya.github.io/cities4health/}{More info}}
+        \renewcommand{\headrulewidth}{0pt}
+        \renewcommand{\footrulewidth}{0pt}
+        \setlength{\footskip}{8mm}
+fontsize: 10pt
+page-layout: article
+mermaid:
+  theme: neutral
+---
+
+**Deadline:** 2 September 2025 · **Start:** Jan 2026 (full‑time) — early partial availability possible
+
+## Summary
+
+A transport‑first Industry PhD embedding **health outcomes** into Ramboll’s active travel, micromobility and accessibility work. The project will turn **validated links** between transport determinants and health into **spatial indicators**, a **decision‑support prototype**, and a **preventive‑health valuation lens** that helps Ramboll win and deliver projects.
+
+
+### Why this matters for Transport
+
+- Position health as a **commercial enabler** for bids and delivery, not just a co‑benefit.
+- Equip teams with **diagnostics** (where health gains are highest) and **what‑if** tools (how network and street changes shift risk and benefits).
+- Aligns with past RAMBOLL UK work: [Neighbourhood Futures and Smart Mobility](https://www.ramboll.com/en-gb/news/ramboll-and-impact-on-urban-health-launch-the-neighbourhood-futures-framework). 
+
+![Transport Determinants of Health (NCD´s)](images/urb_det6.png){width=60%}
+
+
+## The ask
+
+::: {.warning}
+- **Host the Industry PhD** within Ramboll Transport and integrate it with ongoing projects.
+- **Funding structure:** **50%** Innovation Fund Denmark · **25%** Ramboll Transport (host) · **25%** Ramboll Foundation (TBC).
+- IP stays **in‑house** with Ramboll; KU may publish client‑approved use cases.
+:::
+
+## Goals & how this will complement Ramboll Transport
+
+**Goals**
+
+- **Prioritise active travel**, micromobility and accessibility with clear, measurable health outcomes.
+- Map and reduce **heat‑island** exposure along key pedestrian and cycle journeys.
+- Create a **long term product**: Health Impact Assessments (HIA) with mobility at its core. 
+
+
+{{< pagebreak >}}
+
+**What will this add to the department**
+
+- **Decision‑support prototype** – quick diagnostics and simple “what‑if” scenarios for routes, networks and schemes.
+- **Spatial indicator pack** – walk/cycle accessibility, shaded‑route quality & heat exposure, crash‑risk surfaces, air‑quality exposure, access to health/amenities.
+- **Preventive‑health valuation note** – convert mode shift and exposure reductions into indicative avoided health burden for business cases.
+
+These deliverables plug directly into live work such as: **Active Travel Action Plans**, **heat‑island exposure on pedestrian journeys**, and **air‑quality risk assessments for major schemes**.
+
+---
+
+## Pilot pathway (_suggestion_)
+
+Start by plugging into **current commissions** to create quick wins and case studies, then formalise as **Health Outcomes for Transport** capability.
+
+![Commercial opportunity](images/commercial_opportunity.png){width=60%}
+
+### Market entry timeline
+```{mermaid}
+%%{init: {'gantt': {'fontSize': 8, 'sectionFontSize': 10}}%%
+gantt
+    dateFormat  YYYY-MM-DD
+    axisFormat  %Y Q%q
+
+    section Phase 1 — Capability
+    Partner with KU (Dept. of Public Health)    :p1, 2026-01-01, 3y
+    Pilot on live Ramboll projects               :p2, 2026-03-01, 195d
+    Develop case studies                         :p3, 2026-06-15, 120d
+
+    section Phase 2 — Positioning
+    Bid on health‑focused tenders                :p5, 2027-01-01, 500d
+    Offer health co‑benefit analysis             :p6, 2027-03-01, 120d
+    Publish client‑approved use cases            :p7, after p6, 90d
+
+    section Phase 3 — Scale
+    Develop reusable analytics/tooling           :p9, 2027-07-01, 2y
+    Offer internal training                      :p10, 2027-09-01, 180d
+    Lead health‑centred consortium bids          :p11, 2028-01-01, 180d
+
+    section Future
+    European Health Data Space — milestones      :milestone, p13, 2029-01-01, 10d
+```
+
+
